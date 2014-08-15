@@ -15,6 +15,7 @@ function engadgeSearch(input) {
             peopleData = data.data;
             data = undefined;
             var inputNameData;
+            var i;
             for (i = 0; i < peopleData.length; i++) {
                 if (input == peopleData[i].name) {
                     inputNameData = peopleData[i];
@@ -22,6 +23,15 @@ function engadgeSearch(input) {
                     break;
                 }
             }
+
+            if (i == peopleData.length){
+                $("#searching").fadeOut("slow", function(){
+                    $("#searching").remove();
+                    $(".center").append("<div class='result'><h1>查詢失敗...</h1></div>").fadeIn();
+                    backToSearch();
+                });
+            }
+
             if (inputNameData.next)
                 searchNext(inputNameData.next);
         }
