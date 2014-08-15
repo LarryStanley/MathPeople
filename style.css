@@ -1,0 +1,41 @@
+html, body {
+    background-color: rgb(100,100,100);
+    color: rgb(170,170,170);
+}
+
+.center {
+    position:absolute;
+    width:500px; height:250px;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    margin:auto;
+    white-space: nowrap;
+    text-align: center;
+}
+
+.right {
+    float: right;
+}
+
+.name {
+    font-size: 36px;
+    padding : 5px 5px 5px 5px;
+}
+
+.grade100 {
+    color: rgb(87, 134, 77);
+}
+
+.grade101 {
+    color: rgb(117, 27, 57);
+}
+
+.grade102 {
+    color: rgb(36, 132, 171);
+}
+
+.grade103 {
+    color: rgb(196, 138, 31);
+}
