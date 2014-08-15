@@ -1498,12 +1498,18 @@
             "name" : "吳俊良",
             "grade" : 101,
             "previous" : "唐千惠",
-            "next" : [" 李秉儒劉冠鋆"]
+            "next" : ["李秉儒"]
         },
         {
-            "name" : " 李秉儒劉冠鋆",
+            "name" : "李秉儒",
             "grade" : 102,
             "previous" : "吳俊良",
+            "next" :  ["劉冠鋆"]
+        },
+        {
+            "name" : "劉冠鋆",
+            "grade" : 103,
+            "previous" : "劉冠鋆",
             "next" :  []
         },
         {
