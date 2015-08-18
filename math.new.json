@@ -30,6 +30,18 @@
             "next": []
         },
         {
+            "name": "李哲宇",
+            "grade": 104,
+            "previous": "曾柏逸",
+            "next": []
+        },
+        {
+            "name": "陳旻隆",
+            "grade": 104,
+            "previous": "曾柏逸",
+            "next": []
+        },
+        {
             "name": "曾柏逸",
             "grade": 103,
             "previous": "吳崧瑋",
@@ -38,7 +50,6 @@
                 "陳旻隆"
             ]
         },
-        
         {
             "name": "陳文暐",
             "grade": 100,
@@ -52,11 +63,11 @@
             "grade": 101,
             "previous": "陳文暐",
             "next": [
-                " 李政德"
+                "李政德"
             ]
         },
         {
-            "name": " 李政德",
+            "name": "李政德",
             "grade": 102,
             "previous": "曾文鈺",
             "next": [
@@ -64,9 +75,15 @@
             ]
         },
         {
+            "name": "陳姿穎",
+            "grade": 104,
+            "previous": "鍾天佑",
+            "next": []
+        },
+        {
             "name": "鍾天佑",
             "grade": 103,
-            "previous": " 李政德",
+            "previous": "李政德",
             "next": [
                 "陳姿穎"
             ]
@@ -114,11 +131,11 @@
             "grade": 101,
             "previous": "林庭瑀",
             "next": [
-                " 李子婕"
+                "李子婕"
             ]
         },
         {
-            "name": " 李子婕",
+            "name": "李子婕",
             "grade": 102,
             "previous": "吳幸怡",
             "next": [
@@ -126,9 +143,15 @@
             ]
         },
         {
+            "name": "呂明修",
+            "grade": 104,
+            "previous": "李芷婷",
+            "next": []
+        },
+        {
             "name": "李芷婷",
             "grade": 103,
-            "previous": " 李子婕",
+            "previous": "李子婕",
             "next": [
                 "呂明修"
             ]
@@ -158,6 +181,12 @@
             ]
         },
         {
+            "name": "萬育瑄",
+            "grade": 104,
+            "previous": "許牧耘",
+            "next": []
+        },
+        {
             "name": "許牧耘",
             "grade": 103,
             "previous": "林宗楷",
@@ -165,7 +194,6 @@
                 "萬育瑄"
             ]
         },
-        
         {
             "name": "溫志豪",
             "grade": 100,
@@ -181,6 +209,12 @@
             "next": [
                 "蔡承翰"
             ]
+        },
+        {
+            "name": "簡秉宏",
+            "grade": 104,
+            "previous": "蔡承翰",
+            "next": []
         },
         {
             "name": "蔡承翰",
@@ -207,6 +241,12 @@
             ]
         },
         {
+            "name": "孫于婷",
+            "grade": 104,
+            "previous": "趙城綱",
+            "next": []
+        },
+        {
             "name": "趙城綱",
             "grade": 103,
             "previous": "袁翰林",
@@ -227,11 +267,11 @@
             "grade": 101,
             "previous": "林韋志",
             "next": [
-                " 何怡珣"
+                "何怡珣"
             ]
         },
         {
-            "name": " 何怡珣",
+            "name": "何怡珣",
             "grade": 102,
             "previous": "龔如心",
             "next": [
@@ -239,9 +279,15 @@
             ]
         },
         {
+            "name": "張昭德",
+            "grade": 104,
+            "previous": "洪薏雯",
+            "next": []
+        },
+        {
             "name": "洪薏雯",
             "grade": 103,
-            "previous": " 何怡珣",
+            "previous": "何怡珣",
             "next": [
                 "張昭德"
             ]
@@ -272,7 +318,7 @@
         },
         {
             "name": "陳佳辰",
-            "grade": "104",
+            "grade": 104,
             "previous": "柳怡嘉",
             "next": []
         },
@@ -297,11 +343,11 @@
             "grade": 101,
             "previous": "蔡秉芸",
             "next": [
-                " 林溢偉"
+                "林溢偉"
             ]
         },
         {
-            "name": " 林溢偉",
+            "name": "林溢偉",
             "grade": 102,
             "previous": "呂健瑜",
             "next": [
@@ -309,9 +355,15 @@
             ]
         },
         {
+            "name": "謝權信",
+            "grade": 104,
+            "previous": "盧民杰",
+            "next": []
+        },
+        {
             "name": "盧民杰",
             "grade": 103,
-            "previous": " 林溢偉",
+            "previous": "林溢偉",
             "next": [
                 "謝權信"
             ]
@@ -341,18 +393,18 @@
             ]
         },
         {
+            "name": "戴唯承",
+            "grade": 104,
+            "previous": "詹銘仁",
+            "next": []
+        },
+        {
             "name": "詹銘仁",
             "grade": 103,
             "previous": "陳子鈞",
             "next": [
                 "戴唯承"
             ]
-        },
-        {
-            "name": "戴唯承",
-            "grade": 104,
-            "previous": "詹銘仁",
-            "next": []
         },
         {
             "name": "邱煜修",
@@ -377,6 +429,12 @@
             "next": [
                 "許郁翎"
             ]
+        },
+        {
+            "name": "張祐銓",
+            "grade": 104,
+            "previous": "許郁翎",
+            "next": []
         },
         {
             "name": "許郁翎",
@@ -411,18 +469,18 @@
             ]
         },
         {
+            "name": "羅樂庭",
+            "grade": 104,
+            "previous": "劉兆軒",
+            "next": []
+        },
+        {
             "name": "劉兆軒",
             "grade": 103,
             "previous": "吳哲賢",
             "next": [
                 "羅樂庭"
             ]
-        },
-        {
-            "name": "羅樂庭",
-            "grade": 104,
-            "previous": "劉兆軒",
-            "next": []
         },
         {
             "name": "洪碁",
@@ -437,11 +495,11 @@
             "grade": 101,
             "previous": "洪碁",
             "next": [
-                " 鄭文杰"
+                "鄭文杰"
             ]
         },
         {
-            "name": " 鄭文杰",
+            "name": "鄭文杰",
             "grade": 102,
             "previous": "陳昱安",
             "next": [
@@ -449,9 +507,15 @@
             ]
         },
         {
+            "name": "陳冠宇",
+            "grade": 104,
+            "previous": "陳佑銘",
+            "next": []
+        },
+        {
             "name": "陳佑銘",
             "grade": 103,
-            "previous": " 鄭文杰",
+            "previous": "鄭文杰",
             "next": [
                 "陳冠宇"
             ]
@@ -481,6 +545,12 @@
             ]
         },
         {
+            "name": "劉佩宜",
+            "grade": 104,
+            "previous": "周凱威",
+            "next": []
+        },
+        {
             "name": "周凱威",
             "grade": 103,
             "previous": "吳承翰",
@@ -503,6 +573,12 @@
             "next": [
                 "江翎瑋"
             ]
+        },
+        {
+            "name": "林君璟",
+            "grade": 104,
+            "previous": "江翎瑋",
+            "next": []
         },
         {
             "name": "江翎瑋",
@@ -537,6 +613,12 @@
             ]
         },
         {
+            "name": "朱以誠",
+            "grade": 104,
+            "previous": "陳彥銨",
+            "next": []
+        },
+        {
             "name": "陳彥銨",
             "grade": 103,
             "previous": "賴玟羽",
@@ -545,7 +627,7 @@
             ]
         },
         {
-            "name": "陳  謙",
+            "name": "陳謙",
             "grade": 100,
             "previous": "",
             "next": [
@@ -555,13 +637,13 @@
         {
             "name": "李建源",
             "grade": 101,
-            "previous": "陳  謙",
+            "previous": "陳謙",
             "next": [
-                " 許仁豪"
+                "許仁豪"
             ]
         },
         {
-            "name": " 許仁豪",
+            "name": "許仁豪",
             "grade": 102,
             "previous": "李建源",
             "next": [
@@ -569,9 +651,15 @@
             ]
         },
         {
+            "name": "謝明勳",
+            "grade": 104,
+            "previous": "林俊宇",
+            "next": []
+        },
+        {
             "name": "林俊宇",
             "grade": 103,
-            "previous": " 許仁豪",
+            "previous": "許仁豪",
             "next": [
                 "謝明勳"
             ]
@@ -601,6 +689,12 @@
             ]
         },
         {
+            "name": "吳東諺",
+            "grade": 104,
+            "previous": "羅國豪",
+            "next": []
+        },
+        {
             "name": "羅國豪",
             "grade": 103,
             "previous": "黃永仁",
@@ -621,16 +715,22 @@
             "grade": 101,
             "previous": "劉宇威",
             "next": [
-                " 林祺恩"
+                "林祺恩"
             ]
         },
         {
-            "name": " 林祺恩",
+            "name": "林祺恩",
             "grade": 102,
             "previous": "王子睿",
             "next": [
                 "江明謙"
             ]
+        },
+        {
+            "name": "高竹均",
+            "grade": 104,
+            "previous": "江明謙",
+            "next": []
         },
         {
             "name": "江明謙",
@@ -658,12 +758,24 @@
             ]
         },
         {
+            "name": "徐婉瑄",
+            "grade": 104,
+            "previous": "陳思宇",
+            "next": []
+        },
+        {
             "name": "陳思宇",
             "grade": 103,
             "previous": "趙怡華",
             "next": [
                 "徐婉瑄"
             ]
+        },
+        {
+            "name": "邱慶弘",
+            "grade": 104,
+            "previous": "戴胤",
+            "next": []
         },
         {
             "name": "戴胤",
@@ -698,9 +810,15 @@
             ]
         },
         {
+            "name": "戴靜雯",
+            "grade": 104,
+            "previous": "徐倩濡",
+            "next": []
+        },
+        {
             "name": "徐倩濡",
             "grade": 103,
-            "previous": " 王韻婷",
+            "previous": "王韻婷",
             "next": [
                 "戴靜雯"
             ]
@@ -730,6 +848,12 @@
             ]
         },
         {
+            "name": "李泓緯",
+            "grade": 104,
+            "previous": "陳頡輿",
+            "next": []
+        },
+        {
             "name": "陳頡輿",
             "grade": 103,
             "previous": "王亭堯",
@@ -742,11 +866,11 @@
             "grade": 101,
             "previous": "",
             "next": [
-                " 王鈺鎔"
+                "王鈺鎔"
             ]
         },
         {
-            "name": " 王鈺鎔",
+            "name": "王鈺鎔",
             "grade": 102,
             "previous": "梁書睿",
             "next": [
@@ -754,9 +878,15 @@
             ]
         },
         {
+            "name": "劉威誠",
+            "grade": 104,
+            "previous": "侯皓中",
+            "next": []
+        },
+        {
             "name": "侯皓中",
             "grade": 103,
-            "previous": " 王鈺鎔",
+            "previous": "王鈺鎔",
             "next": [
                 "劉威誠"
             ]
@@ -786,6 +916,12 @@
             ]
         },
         {
+            "name": "康聖玄",
+            "grade": 104,
+            "previous": "陳冠廷",
+            "next": []
+        },
+        {
             "name": "陳冠廷",
             "grade": 103,
             "previous": "曾煒翔",
@@ -806,11 +942,11 @@
             "grade": 101,
             "previous": "陳愷宏",
             "next": [
-                " 馮信偉"
+                "馮信偉"
             ]
         },
         {
-            "name": " 馮信偉",
+            "name": "馮信偉",
             "grade": 102,
             "previous": "薛志成",
             "next": [
@@ -818,9 +954,15 @@
             ]
         },
         {
+            "name": "蔡宗紘",
+            "grade": 104,
+            "previous": "陳啟郡",
+            "next": []
+        },
+        {
             "name": "陳啟郡",
             "grade": 103,
-            "previous": " 馮信偉",
+            "previous": "馮信偉",
             "next": [
                 "蔡宗紘"
             ]
@@ -850,6 +992,12 @@
             ]
         },
         {
+            "name": "楊智平",
+            "grade": 104,
+            "previous": "朱晨瑋",
+            "next": []
+        },
+        {
             "name": "朱晨瑋",
             "grade": 103,
             "previous": "錢慶彰",
@@ -870,11 +1018,11 @@
             "grade": 101,
             "previous": "賴其昀",
             "next": [
-                " 吳澄練"
+                "吳澄練"
             ]
         },
         {
-            "name": " 吳澄練",
+            "name": "吳澄練",
             "grade": 102,
             "previous": "趙守恩",
             "next": [
@@ -882,9 +1030,15 @@
             ]
         },
         {
+            "name": "郭旻昌",
+            "grade": 104,
+            "previous": "陳冠儒",
+            "next": []
+        },
+        {
             "name": "陳冠儒",
             "grade": 103,
-            "previous": " 吳澄練",
+            "previous": "吳澄練",
             "next": [
                 "郭旻昌"
             ]
@@ -914,6 +1068,12 @@
             ]
         },
         {
+            "name": "林苡樂",
+            "grade": 104,
+            "previous": "蔡明諺",
+            "next": []
+        },
+        {
             "name": "蔡明諺",
             "grade": 103,
             "previous": "陳正雄",
@@ -926,11 +1086,11 @@
             "grade": 100,
             "previous": "",
             "next": [
-                " 蘇蕙欣"
+                "蘇蕙欣"
             ]
         },
         {
-            "name": " 蘇蕙欣",
+            "name": "蘇蕙欣",
             "grade": 101,
             "previous": "孫宏奇",
             "next": [
@@ -940,7 +1100,7 @@
         {
             "name": "欒又禎",
             "grade": 102,
-            "previous": " 蘇蕙欣",
+            "previous": "蘇蕙欣",
             "next": [
                 "闕壯和"
             ]
@@ -958,11 +1118,11 @@
             "grade": 101,
             "previous": "歐陽濬",
             "next": [
-                "陳  毅"
+                "陳 毅"
             ]
         },
         {
-            "name": "陳  毅",
+            "name": "陳 毅",
             "grade": 102,
             "previous": "陳俊嘉",
             "next": [
@@ -970,9 +1130,15 @@
             ]
         },
         {
+            "name": "黃韋中",
+            "grade": 104,
+            "previous": "莊詠鈞",
+            "next": []
+        },
+        {
             "name": "莊詠鈞",
             "grade": 103,
-            "previous": "陳  毅",
+            "previous": "陳 毅",
             "next": [
                 "黃韋中"
             ]
@@ -990,11 +1156,11 @@
             "grade": 101,
             "previous": "呂昊叡",
             "next": [
-                " 高聖翔"
+                "高聖翔"
             ]
         },
         {
-            "name": " 高聖翔",
+            "name": "高聖翔",
             "grade": 102,
             "previous": "郭寶祥",
             "next": [
@@ -1002,9 +1168,15 @@
             ]
         },
         {
+            "name": "林孟毅",
+            "grade": 104,
+            "previous": "黃奕棠",
+            "next": []
+        },
+        {
             "name": "黃奕棠",
             "grade": 103,
-            "previous": " 高聖翔",
+            "previous": "高聖翔",
             "next": [
                 "林孟毅"
             ]
@@ -1032,6 +1204,12 @@
             "next": [
                 "甘英煥"
             ]
+        },
+        {
+            "name": "黃睦鈞",
+            "grade": 104,
+            "previous": "甘英煥",
+            "next": []
         },
         {
             "name": "甘英煥",
@@ -1088,6 +1266,12 @@
             ]
         },
         {
+            "name": "詹婷",
+            "grade": 104,
+            "previous": "馮偉倫",
+            "next": []
+        },
+        {
             "name": "馮偉倫",
             "grade": 103,
             "previous": "文皓德",
@@ -1104,7 +1288,7 @@
             ]
         },
         {
-            "name": " 鄭婷",
+            "name": "鄭婷",
             "grade": 102,
             "previous": "簡玉宣",
             "next": [
@@ -1112,9 +1296,15 @@
             ]
         },
         {
+            "name": "王子恒",
+            "grade": 104,
+            "previous": "程譯",
+            "next": []
+        },
+        {
             "name": "程譯",
             "grade": 103,
-            "previous": " 鄭婷",
+            "previous": "鄭婷",
             "next": [
                 "王子恒"
             ]
@@ -1144,6 +1334,12 @@
             ]
         },
         {
+            "name": "王重尹",
+            "grade": 104,
+            "previous": "梁益銓",
+            "next": []
+        },
+        {
             "name": "梁益銓",
             "grade": 103,
             "previous": "張繼仁",
@@ -1164,11 +1360,11 @@
             "grade": 101,
             "previous": "鍾佳儒",
             "next": [
-                " 許育榮"
+                "許育榮"
             ]
         },
         {
-            "name": " 許育榮",
+            "name": "許育榮",
             "grade": 102,
             "previous": "洪維柏",
             "next": [
@@ -1176,9 +1372,15 @@
             ]
         },
         {
+            "name": "黃意翔",
+            "grade": 104,
+            "previous": "張天陽",
+            "next": []
+        },
+        {
             "name": "張天陽",
             "grade": 103,
-            "previous": " 許育榮",
+            "previous": "許育榮",
             "next": [
                 "黃意翔"
             ]
@@ -1210,11 +1412,23 @@
         },
         {
             "name": "吳家榮",
-            "garde": 103,
+            "grade": 103,
             "previous": "徐瑋辰",
             "next": [
                 "蘇祐陞"
             ]
+        },
+        {
+            "name": "蘇祐陞",
+            "grade": 104,
+            "previous": "吳家榮",
+            "next": []
+        },
+        {
+            "name": "張立欣",
+            "grade": 104,
+            "previous": "林亭家",
+            "next": []
         },
         {
             "name": "林亭家",
@@ -1249,9 +1463,15 @@
             ]
         },
         {
+            "name": "蔡曜謙",
+            "grade": 104,
+            "previous": "黃翌軒",
+            "next": []
+        },
+        {
             "name": "黃翌軒",
             "grade": 103,
-            "previous": " 陳柏瑞",
+            "previous": "陳柏瑞",
             "next": [
                 "蔡曜謙"
             ]
@@ -1293,11 +1513,11 @@
             "grade": 101,
             "previous": "應劭玄",
             "next": [
-                " 涂幃翔"
+                "涂幃翔"
             ]
         },
         {
-            "name": " 涂幃翔",
+            "name": "涂幃翔",
             "grade": 102,
             "previous": "李佳穎",
             "next": [
@@ -1305,9 +1525,15 @@
             ]
         },
         {
+            "name": "黃聖鈞",
+            "grade": 104,
+            "previous": "蕭富辰",
+            "next": []
+        },
+        {
             "name": "蕭富辰",
             "grade": 103,
-            "previous": " 涂幃翔",
+            "previous": "涂幃翔",
             "next": [
                 "黃聖鈞"
             ]
@@ -1338,12 +1564,24 @@
             ]
         },
         {
+            "name": "紀沅甫",
+            "grade": 104,
+            "previous": "陳佑昇",
+            "next": []
+        },
+        {
             "name": "陳佑昇",
             "grade": 103,
             "previous": "林靖智",
             "next": [
                 "紀沅甫"
             ]
+        },
+        {
+            "name": "黃郁融",
+            "grade": 104,
+            "previous": "李昱承",
+            "next": []
         },
         {
             "name": "李昱承",
@@ -1378,9 +1616,15 @@
             ]
         },
         {
+            "name": "曾宇嫻",
+            "grade": 104,
+            "previous": "姜遠宜",
+            "next": []
+        },
+        {
             "name": "姜遠宜",
             "grade": 103,
-            "previous": " 藍郁翔",
+            "previous": "藍郁翔",
             "next": [
                 "曾宇嫻"
             ]
@@ -1410,6 +1654,12 @@
             ]
         },
         {
+            "name": "沈子翔",
+            "grade": 104,
+            "previous": "黃詠勝",
+            "next": []
+        },
+        {
             "name": "黃詠勝",
             "grade": 103,
             "previous": "邱建彰",
@@ -1418,7 +1668,7 @@
             ]
         },
         {
-            "name": "張  勻",
+            "name": "張 勻",
             "grade": 100,
             "previous": "",
             "next": [
@@ -1428,13 +1678,13 @@
         {
             "name": "陳柏霖",
             "grade": 101,
-            "previous": "張  勻",
+            "previous": "張 勻",
             "next": [
-                " 董奕賢"
+                "董奕賢"
             ]
         },
         {
-            "name": " 董奕賢",
+            "name": "董奕賢",
             "grade": 102,
             "previous": "陳柏霖",
             "next": [
@@ -1442,9 +1692,15 @@
             ]
         },
         {
+            "name": "詹承翰",
+            "grade": 104,
+            "previous": "李沛頡",
+            "next": []
+        },
+        {
             "name": "李沛頡",
             "grade": 103,
-            "previous": " 董奕賢",
+            "previous": "董奕賢",
             "next": [
                 "詹承翰"
             ]
@@ -1466,6 +1722,12 @@
             ]
         },
         {
+            "name": "陳奕儒",
+            "grade": 104,
+            "previous": "崔峰賓",
+            "next": []
+        },
+        {
             "name": "崔峰賓",
             "grade": 103,
             "previous": "林格屹",
@@ -1478,11 +1740,11 @@
             "grade": 101,
             "previous": "",
             "next": [
-                " 林勁甫"
+                "林勁甫"
             ]
         },
         {
-            "name": " 林勁甫",
+            "name": "林勁甫",
             "grade": 102,
             "previous": "呂庭光",
             "next": [
@@ -1490,9 +1752,15 @@
             ]
         },
         {
+            "name": "王作賓",
+            "grade": 104,
+            "previous": "林宇政",
+            "next": []
+        },
+        {
             "name": "林宇政",
             "grade": 103,
-            "previous": " 林勁甫",
+            "previous": "林勁甫",
             "next": [
                 "王作賓"
             ]
@@ -1522,6 +1790,12 @@
             ]
         },
         {
+            "name": "鄭偉丞",
+            "grade": 104,
+            "previous": "林宗翰",
+            "next": []
+        },
+        {
             "name": "林宗翰",
             "grade": 103,
             "previous": "方詠安",
@@ -1542,11 +1816,11 @@
             "grade": 101,
             "previous": "黃朝晟",
             "next": [
-                " 陳俊瑜"
+                "陳俊瑜"
             ]
         },
         {
-            "name": " 陳俊瑜",
+            "name": "陳俊瑜",
             "grade": 102,
             "previous": "湯沂達",
             "next": [
@@ -1554,9 +1828,15 @@
             ]
         },
         {
+            "name": "王崇安",
+            "grade": 104,
+            "previous": "黃樂賢",
+            "next": []
+        },
+        {
             "name": "黃樂賢",
             "grade": 103,
-            "previous": " 陳俊瑜",
+            "previous": "陳俊瑜",
             "next": [
                 "王崇安"
             ]
@@ -1586,6 +1866,12 @@
             ]
         },
         {
+            "name": "朱家辰",
+            "grade": 104,
+            "previous": "陳奕昕",
+            "next": []
+        },
+        {
             "name": "陳奕昕",
             "grade": 103,
             "previous": "黃聖涵",
@@ -1606,11 +1892,11 @@
             "grade": 101,
             "previous": "蔡承翰",
             "next": [
-                " 張書榕"
+                "張書榕"
             ]
         },
         {
-            "name": " 張書榕",
+            "name": "張書榕",
             "grade": 102,
             "previous": "梁沐嶸",
             "next": [
@@ -1618,9 +1904,15 @@
             ]
         },
         {
+            "name": "廖宏翊",
+            "grade": 104,
+            "previous": "張仕昇",
+            "next": []
+        },
+        {
             "name": "張仕昇",
             "grade": 103,
-            "previous": " 張書榕",
+            "previous": "張書榕",
             "next": [
                 "廖宏翊"
             ]
@@ -1650,6 +1942,12 @@
             ]
         },
         {
+            "name": "戴辰",
+            "grade": 104,
+            "previous": "賴慶杰",
+            "next": []
+        },
+        {
             "name": "賴慶杰",
             "grade": 103,
             "previous": "劉宇哲",
@@ -1670,11 +1968,11 @@
             "grade": 101,
             "previous": "高嘉宏",
             "next": [
-                " 楊宗哲"
+                "楊宗哲"
             ]
         },
         {
-            "name": " 楊宗哲",
+            "name": "楊宗哲",
             "grade": 102,
             "previous": "王乃民",
             "next": [
@@ -1682,15 +1980,21 @@
             ]
         },
         {
+            "name": "李皓南",
+            "grade": 104,
+            "previous": "陳致宇",
+            "next": []
+        },
+        {
             "name": "陳致宇",
             "grade": 103,
-            "previous": " 楊宗哲",
+            "previous": "楊宗哲",
             "next": [
                 "李皓南"
             ]
         },
         {
-            "name": "朱  儀",
+            "name": "朱 儀",
             "grade": 100,
             "previous": "",
             "next": [
@@ -1700,7 +2004,7 @@
         {
             "name": "馮冠群",
             "grade": 101,
-            "previous": "朱  儀",
+            "previous": "朱 儀",
             "next": [
                 "董玠佑"
             ]
@@ -1712,6 +2016,12 @@
             "next": [
                 "許家齊"
             ]
+        },
+        {
+            "name": "李昀叡",
+            "grade": 104,
+            "previous": "許家齊",
+            "next": []
         },
         {
             "name": "許家齊",
@@ -1734,11 +2044,11 @@
             "grade": 101,
             "previous": "鄭倩如",
             "next": [
-                " 陳湛圖"
+                "陳湛圖"
             ]
         },
         {
-            "name": " 陳湛圖",
+            "name": "陳湛圖",
             "grade": 102,
             "previous": "黃知盈",
             "next": [
@@ -1746,9 +2056,15 @@
             ]
         },
         {
+            "name": "黃孟凱",
+            "grade": 104,
+            "previous": "吳翎毓",
+            "next": []
+        },
+        {
             "name": "吳翎毓",
             "grade": 103,
-            "previous": " 陳湛圖",
+            "previous": "陳湛圖",
             "next": [
                 "黃孟凱"
             ]
@@ -1778,6 +2094,12 @@
             ]
         },
         {
+            "name": "黃聖翔",
+            "grade": 104,
+            "previous": "梁貿淞",
+            "next": []
+        },
+        {
             "name": "梁貿淞",
             "grade": 103,
             "previous": "梁瑋修",
@@ -1798,11 +2120,11 @@
             "grade": 101,
             "previous": "俞政廷",
             "next": [
-                " 黃有毅"
+                "黃有毅"
             ]
         },
         {
-            "name": " 黃有毅",
+            "name": "黃有毅",
             "grade": 102,
             "previous": "何子宸",
             "next": [
@@ -1810,9 +2132,15 @@
             ]
         },
         {
+            "name": "鄭劼弦",
+            "grade": 104,
+            "previous": "潘彥碩",
+            "next": []
+        },
+        {
             "name": "潘彥碩",
             "grade": 103,
-            "previous": " 黃有毅",
+            "previous": "黃有毅",
             "next": [
                 "鄭劼弦"
             ]
@@ -1832,6 +2160,12 @@
             "next": [
                 "戴育詳"
             ]
+        },
+        {
+            "name": "李皓翔",
+            "grade": 104,
+            "previous": "戴育詳",
+            "next": []
         },
         {
             "name": "戴育詳",
@@ -1866,9 +2200,15 @@
             ]
         },
         {
+            "name": "林浩田",
+            "grade": 104,
+            "previous": "陳宣儒",
+            "next": []
+        },
+        {
             "name": "陳宣儒",
             "grade": 103,
-            "previous": " 陳薪堯",
+            "previous": "陳薪堯",
             "next": [
                 "林浩田"
             ]
@@ -1898,6 +2238,12 @@
             ]
         },
         {
+            "name": "馮玉賢",
+            "grade": 104,
+            "previous": "吳俞萱",
+            "next": []
+        },
+        {
             "name": "吳俞萱",
             "grade": 103,
             "previous": "李佳陽",
@@ -1918,11 +2264,11 @@
             "grade": 101,
             "previous": "劉伯軒",
             "next": [
-                " 洪晨閎"
+                "洪晨閎"
             ]
         },
         {
-            "name": " 洪晨閎",
+            "name": "洪晨閎",
             "grade": 102,
             "previous": "鄭書奇",
             "next": [
@@ -1930,9 +2276,15 @@
             ]
         },
         {
+            "name": "巫展軍",
+            "grade": 104,
+            "previous": "盧奕誠",
+            "next": []
+        },
+        {
             "name": "盧奕誠",
             "grade": 103,
-            "previous": " 洪晨閎",
+            "previous": "洪晨閎",
             "next": [
                 "巫展軍"
             ]
@@ -1960,6 +2312,12 @@
             "next": [
                 "陳昱叡"
             ]
+        },
+        {
+            "name": "李冠煌",
+            "grade": 104,
+            "previous": "陳昱叡",
+            "next": []
         },
         {
             "name": "陳昱叡",
@@ -1995,6 +2353,12 @@
             ]
         },
         {
+            "name": "江郅錡",
+            "grade": 104,
+            "previous": "劉冠鋆",
+            "next": []
+        },
+        {
             "name": "劉冠鋆",
             "grade": 103,
             "previous": "劉冠鋆",
@@ -2019,6 +2383,12 @@
             ]
         },
         {
+            "name": "鄭宇倫",
+            "grade": 104,
+            "previous": "邱泰偉",
+            "next": []
+        },
+        {
             "name": "邱泰偉",
             "grade": 103,
             "previous": "張家齊",
@@ -2039,11 +2409,11 @@
             "grade": 101,
             "previous": "江駿立",
             "next": [
-                " 鍾彥杰"
+                "鍾彥杰"
             ]
         },
         {
-            "name": " 鍾彥杰",
+            "name": "鍾彥杰",
             "grade": 102,
             "previous": "吳有為",
             "next": [
@@ -2053,7 +2423,7 @@
         {
             "name": "盧清炫",
             "grade": 103,
-            "previous": " 鍾彥杰",
+            "previous": "鍾彥杰",
             "next": []
         },
         {
@@ -2072,6 +2442,12 @@
                 "周俊志",
                 "馮善元"
             ]
+        },
+        {
+            "name": "鄧明婕",
+            "grade": 104,
+            "previous": "馮善元",
+            "next": []
         },
         {
             "name": "馮善元",
@@ -2119,6 +2495,12 @@
             ]
         },
         {
+            "name": "林裕翔",
+            "grade": 104,
+            "previous": "林宜興",
+            "next": []
+        },
+        {
             "name": "林宜興",
             "grade": 103,
             "previous": "吳泳嫻",
@@ -2127,9 +2509,15 @@
             ]
         },
         {
+            "name": "施奕安",
+            "grade": 104,
+            "previous": "翁翊珊",
+            "next": []
+        },
+        {
             "name": "翁翊珊",
             "grade": 103,
-            "previous": " 吳詠嫻",
+            "previous": "吳詠嫻",
             "next": [
                 "施奕安"
             ]
@@ -2159,6 +2547,12 @@
             ]
         },
         {
+            "name": "梁適蕊",
+            "grade": 104,
+            "previous": "林廷俊",
+            "next": []
+        },
+        {
             "name": "林廷俊",
             "grade": 103,
             "previous": "葉行遠",
@@ -2179,11 +2573,11 @@
             "grade": 101,
             "previous": "魏宏宇",
             "next": [
-                " 簡佳恩"
+                "簡佳恩"
             ]
         },
         {
-            "name": " 簡佳恩",
+            "name": "簡佳恩",
             "grade": 102,
             "previous": "周柏翰",
             "next": [
@@ -2191,9 +2585,15 @@
             ]
         },
         {
+            "name": "林祐楷",
+            "grade": 104,
+            "previous": "葉繼聰",
+            "next": []
+        },
+        {
             "name": "葉繼聰",
             "grade": 103,
-            "previous": " 簡佳恩",
+            "previous": "簡佳恩",
             "next": [
                 "林祐楷"
             ]
@@ -2223,6 +2623,12 @@
             ]
         },
         {
+            "name": "楊家豪",
+            "grade": 104,
+            "previous": "賴昱賢",
+            "next": []
+        },
+        {
             "name": "賴昱賢",
             "grade": 103,
             "previous": "鍾其融",
@@ -2243,11 +2649,11 @@
             "grade": 101,
             "previous": "顧百芙",
             "next": [
-                " 陳忠謙"
+                "陳忠謙"
             ]
         },
         {
-            "name": " 陳忠謙",
+            "name": "陳忠謙",
             "grade": 102,
             "previous": "邱軒平",
             "next": [
@@ -2255,9 +2661,15 @@
             ]
         },
         {
+            "name": "林軍翰",
+            "grade": 104,
+            "previous": "林彥誠",
+            "next": []
+        },
+        {
             "name": "林彥誠",
             "grade": 103,
-            "previous": " 陳忠謙",
+            "previous": "陳忠謙",
             "next": [
                 "林軍翰"
             ]
@@ -2287,6 +2699,12 @@
             ]
         },
         {
+            "name": "劉冠廷",
+            "grade": 104,
+            "previous": "謝昊恩",
+            "next": []
+        },
+        {
             "name": "謝昊恩",
             "grade": 103,
             "previous": "伍錫志",
@@ -2309,6 +2727,12 @@
             "next": [
                 "張凱傑"
             ]
+        },
+        {
+            "name": "林冠甫",
+            "grade": 104,
+            "previous": "張凱傑",
+            "next": []
         },
         {
             "name": "張凱傑",
@@ -2373,6 +2797,12 @@
             ]
         },
         {
+            "name": "鍾昭彥",
+            "grade": 104,
+            "previous": "楊仲齊",
+            "next": []
+        },
+        {
             "name": "楊仲齊",
             "grade": 103,
             "previous": "李建緯",
@@ -2405,6 +2835,12 @@
             ]
         },
         {
+            "name": "巫展軍",
+            "grade": 104,
+            "previous": "邱冠鈞",
+            "next": []
+        },
+        {
             "name": "邱冠鈞",
             "grade": 103,
             "previous": "張宏印",
@@ -2435,6 +2871,12 @@
             "next": [
                 "謝佳運"
             ]
+        },
+        {
+            "name": "簡銘瑜",
+            "grade": 104,
+            "previous": "謝佳運",
+            "next": []
         },
         {
             "name": "謝佳運",
@@ -2470,6 +2912,12 @@
             ]
         },
         {
+            "name": "鄭亦彣",
+            "grade": 104,
+            "previous": "張喬茵",
+            "next": []
+        },
+        {
             "name": "張喬茵",
             "grade": 103,
             "previous": "蘇柏軒",
@@ -2478,9 +2926,9 @@
             ]
         },
         {
-            "name": "鄭亦彣",
+            "name": "張庭瑄",
             "grade": 104,
-            "previous": "張喬茵",
+            "previous": "顧瀞文",
             "next": []
         },
         {
@@ -2492,24 +2940,18 @@
             ]
         },
         {
-            "name": "張庭瑄",
-            "grade": "104",
-            "previous": "顧瀞文",
-            "next": []
-        },
-        {
-            "name": "江郅錡",
-            "grade": "104",
-            "previous": "劉冠鋆",
-            "next": []
-        },
-        {
             "name": "廖允禎",
             "grade": "102",
             "previous": "",
             "next": [
                 "林浩誼"
             ]
+        },
+        {
+            "name": "邱奕凱",
+            "grade": 104,
+            "previous": "林浩誼",
+            "next": []
         },
         {
             "name": "林浩誼",

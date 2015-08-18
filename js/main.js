@@ -2,7 +2,7 @@ var peopleData;
 var presentData = {nodes:[],edges:[]};
 var previousPeople;
 var searching = [];
-var distance = 15;
+var distance = 12;
 var autocompleteData = [];
 function searchResult() {
     $(".searchForm").fadeOut("slow", function(){
@@ -14,7 +14,7 @@ function searchResult() {
 function engadgeSearch(input) {
     $.ajax({
         dataType: "json",
-        url: "math.json",
+        url: "math.new.json",
         success: function(data) {
             peopleData = data.data;
             var i;
@@ -44,6 +44,7 @@ function engadgeSearch(input) {
 
 
 function searchPrevious(name) {
+    console.log("search previous " + name);
     $.each(peopleData, function(index, value) {
         if (value.name == name) {
             if (value.previous)
@@ -74,14 +75,17 @@ function drawData(x,y, people) {
             distance -= 3;
         $.each(people.next, function(index, value) {
             $.each(peopleData, function(key, relative) {
-                if (relative.name == value) {
-                    presentData.edges.push({
-                        "id" : people.name + "-" + relative.name,
-                        "source" : people.name,
-                        "target" : relative.name
-                    });
-                    var firstX = x - (people.next.length - 1)*distance/2;
-                    drawData(firstX + index * distance, y + 5, relative);
+                if (relative.grade > people.grade) {
+                    if (relative.name == value) {
+                        console.log("peopel "+relative.name);
+                        presentData.edges.push({
+                            "id" : people.name + "-" + relative.name,
+                            "source" : people.name,
+                            "target" : relative.name
+                        });
+                        var firstX = x - (people.next.length - 1)*distance/2;
+                        drawData(firstX + index * distance, y + 5, relative);
+                    }
                 }
             });
         });
