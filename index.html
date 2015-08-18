@@ -41,8 +41,12 @@
                     });
                 }
                 result.push(value);
-                if (index === data.data.length - 1)
-                    console.log(JSON.stringify(result));
+                if (index === data.data.length - 1) {
+                    result = result.filter(function(item, pos) {
+                        return result.indexOf(item) == pos;
+                    })
+                    $(".container").append(JSON.stringify(result));
+                }
             });
         });
     </script>
