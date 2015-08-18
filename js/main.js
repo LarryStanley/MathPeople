@@ -2,9 +2,9 @@ var peopleData;
 var presentData = {nodes:[],edges:[]};
 var previousPeople;
 var searching = [];
-var distance = 12;
 var autocompleteData = [];
 function searchResult() {
+    var distance = 12;
     $(".searchForm").fadeOut("slow", function(){
         $(".center").append("<h1 id='searching'>搜尋中...</h1>").fadeIn();
         engadgeSearch($("input").val());
