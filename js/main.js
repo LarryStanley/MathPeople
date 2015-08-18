@@ -64,7 +64,6 @@ function drawData(x,y, people) {
         "x": x,
         "y": y,
         "size": 10,
-        "color": '#94B8B5'
     });
     var peopleIndex = searching.indexOf(people.name);
     if (peopleIndex >= 0)
@@ -107,7 +106,7 @@ function showResult() {
             container: 'result',
             settings: {
                 defaultNodeColor: '#ec5148',
-                defaultLabelColor: '#FFFFFF',
+                defaultLabelColor: '#263238',
                 doubleClickEnabled: false,
                 mouseEnabled: false
             }

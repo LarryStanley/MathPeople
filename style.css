@@ -1,19 +1,59 @@
 html, body {
-    background-color: rgb(100,100,100);
-    color: rgb(170,170,170);
+    background-color: white;
+    color: black;
 }
 
-.center {
-    position:absolute;
-    width: 500px; 
-    height:250px;
-    top:0;
-    bottom:0;
-    left:0;
-    right:0;
-    margin:auto;
-    white-space: nowrap;
-    text-align: center;
+
+@media (min-width: 1200px) {
+    .center {
+        width: 1170px;
+        height: 195px;
+        position: absolute;
+        top: 30%;
+        left: 50%;
+        margin-left: -585px;
+        margin-top: -97.5px;
+    }
+}
+
+@media (min-width: 992px) {
+
+    .center {
+        width: 970px;
+        height: 195px;
+        position: absolute;
+        top: 30%;
+        left: 50%;
+        margin-left: -485px;
+        margin-top: -97.5px;
+    }
+
+}
+
+@media (min-width: 758px) {
+
+    .center {
+        width: 750px;
+        height: 195px;
+        position: absolute;
+        top: 30%;
+        left: 50%;
+        margin-left: -375px;
+        margin-top: -97.5px;
+    }
+
+}
+
+@media (max-width: 768px) {
+    .center {
+        width: 80%;
+        height: 195px;
+        position: absolute;
+        top: 30%;
+        left: 50%;
+        margin-left: -40%;
+        margin-top: -97.5px;
+    }
 }
 
 .right {
