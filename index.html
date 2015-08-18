@@ -26,5 +26,25 @@
     <script src="js/sigma.min.js"></script>    
     <script src="js/sigma.parsers.json.min.js"></script>
     <script src="js/main.js"></script>
+    <script>
+        var result = [];
+        $.getJSON("math.json", function(data){
+            $.each(data.data, function(index, value) {
+                if (value.grade == 103) {
+                    $.each(value.next, function(key, item) {
+                        result.push({
+                            "name": item,
+                            "grade": "104",
+                            "previous": value.name,
+                            "next": []
+                        });
+                    });
+                }
+                result.push(value);
+                if (index === data.data.length - 1)
+                    console.log(JSON.stringify(result));
+            });
+        });
+    </script>
 </body>
 </html>
