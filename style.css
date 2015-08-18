@@ -40,3 +40,9 @@ html, body {
 .grade103 {
     color: rgb(196, 138, 31);
 }
+
+#result {
+    max-width: 400px;
+    height: 600px;
+    margin: auto;
+}

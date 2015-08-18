@@ -1,6 +1,7 @@
 var peopleData;
 var presentData = {nodes:[],edges:[]};
 var previousPeople;
+var searching = [];
 function searchResult() {
     $(".searchForm").fadeOut("slow", function(){
         $(".center").append("<h1 id='searching'>搜尋中...</h1>").fadeIn();
@@ -41,7 +42,6 @@ function engadgeSearch(input) {
 
 
 function searchPrevious(name) {
-    console.log(name);
     $.each(peopleData, function(index, value) {
         if (value.name == name) {
             if (value.previous)
@@ -54,17 +54,22 @@ function searchPrevious(name) {
 }
 
 function drawData(x,y, people) {
-    console.log("yes");
+    console.log("name:"+people.name + " x:" + x);
     presentData.nodes.push({
         "id": people.name,
         "label": people.name,
         "x": x,
         "y": y,
-        "size": 3
+        "size": 10,
+        "color": '#94B8B5'
     });
+    var peopleIndex = searching.indexOf(people.name);
+    if (peopleIndex >= 0)
+        searching.splice(peopleIndex, 1);
 
     if (people.next.length > 0) {
-        var firstX = x - (people.next.length - 1);
+        $.extend( searching, people.next);
+        var firstX = x - (people.next.length - 1)*5/2;
         $.each(people.next, function(index, value) {
             $.each(peopleData, function(key, relative) {
                 if (relative.name == value) {
@@ -73,33 +78,40 @@ function drawData(x,y, people) {
                         "source" : people.name,
                         "target" : relative.name
                     });
-                    drawData(firstX + index, y + 1, relative);
+                    drawData(firstX + index * 5, y + 5, relative);
                 }
             });
         });
-    }else
-        showResult();
+    }else{
+        if (searching.length == 0)
+            showResult();
+    }
 }
 
 function showResult() {
     $("#searching").fadeOut("slow", function(){
         $("#searching").remove();
         var string = "<div class='result' id='result'>";
-        string = string + '<button class="btn btn-default right" onclick="backToSearch()">重新查詢</button>'
         string = string + "</div>";
-        $(".center").append(string).fadeIn();
-        console.log(JSON.stringify(presentData));
-        sigma.parsers.json( JSON.stringify(presentData), {
+        $(".container").append(string).fadeIn();
+        s = new sigma({ 
+            graph: presentData,
             container: 'result',
             settings: {
-                defaultNodeColor: '#ec5148'
+                defaultNodeColor: '#ec5148',
+                defaultLabelColor: '#FFFFFF',
+                doubleClickEnabled: false,
+                mouseEnabled: false
             }
         });
+        $(".container").append("<button id='research' class='btn btn-default pull-right' onclick='backToSearch()'>重新查詢</button>")
     });
 }
 function backToSearch() {
+    presentData = {nodes:[],edges:[]};
     $(".result").fadeOut("slow", function() {
         $(".result").remove();
+        $("#research").remove();
         $(".searchForm").fadeIn("slow");
     });
 }
