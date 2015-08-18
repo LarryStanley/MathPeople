@@ -2,6 +2,8 @@ var peopleData;
 var presentData = {nodes:[],edges:[]};
 var previousPeople;
 var searching = [];
+var distance = 15;
+var autocompleteData = [];
 function searchResult() {
     $(".searchForm").fadeOut("slow", function(){
         $(".center").append("<h1 id='searching'>搜尋中...</h1>").fadeIn();
@@ -37,7 +39,7 @@ function engadgeSearch(input) {
             }
             
         }
-    })
+    });
 }
 
 
@@ -54,7 +56,6 @@ function searchPrevious(name) {
 }
 
 function drawData(x,y, people) {
-    console.log("name:"+people.name + " x:" + x);
     presentData.nodes.push({
         "id": people.name,
         "label": people.name,
@@ -69,7 +70,8 @@ function drawData(x,y, people) {
 
     if (people.next.length > 0) {
         $.extend( searching, people.next);
-        var firstX = x - (people.next.length - 1)*5/2;
+        if (people.next.length > 1)
+            distance -= 3;
         $.each(people.next, function(index, value) {
             $.each(peopleData, function(key, relative) {
                 if (relative.name == value) {
@@ -78,7 +80,8 @@ function drawData(x,y, people) {
                         "source" : people.name,
                         "target" : relative.name
                     });
-                    drawData(firstX + index * 5, y + 5, relative);
+                    var firstX = x - (people.next.length - 1)*distance/2;
+                    drawData(firstX + index * distance, y + 5, relative);
                 }
             });
         });
@@ -115,3 +118,28 @@ function backToSearch() {
         $(".searchForm").fadeIn("slow");
     });
 }
+
+$(document).ready(function() {
+    $.ajax({
+        dataType: "json",
+        url: "math.json",
+        success: function(data) {
+            $.each(data.data, function(index, value) {
+                autocompleteData.push({value: value.name, data: data.name});
+            });
+            $('input').autocomplete({
+                lookup: autocompleteData,
+                onSelect: function (suggestion) {
+                    $("input").val(suggestion.value);
+                    searchResult();
+                }
+            });
+        }
+    });
+});
+
+$(document).keypress(function(e) {
+    if(e.which == 13) {
+        searchResult();
+    }
+});
