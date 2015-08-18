@@ -3,8 +3,14 @@ html, body {
     color: black;
 }
 
+h1 {
+    text-align: center;
+}
 
 @media (min-width: 1200px) {
+    h1 br {
+        display: none;
+    }
     .center {
         width: 1170px;
         height: 195px;
@@ -17,7 +23,9 @@ html, body {
 }
 
 @media (min-width: 992px) {
-
+    h1 br {
+        display: none;
+    }
     .center {
         width: 970px;
         height: 195px;
@@ -31,7 +39,9 @@ html, body {
 }
 
 @media (min-width: 758px) {
-
+    h1 br {
+        display: none;
+    }
     .center {
         width: 750px;
         height: 195px;
@@ -49,7 +59,7 @@ html, body {
         width: 80%;
         height: 195px;
         position: absolute;
-        top: 30%;
+        top: 50%;
         left: 50%;
         margin-left: -40%;
         margin-top: -97.5px;
@@ -83,7 +93,6 @@ html, body {
 
 #result {
     max-width: 1000px;
-    min-width: 500px;
     height: 600px;
     margin: auto;
 }
