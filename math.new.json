@@ -1,2988 +1,2988 @@
 {
-  "data": [
-    {
-      "name": "田豐",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "林詠順"
-      ]
-    },
-    {
-      "name": "林詠順",
-      "grade": 101,
-      "previous": "田豐",
-      "next": []
-    },
-    {
-      "name": "吳崧瑋",
-      "grade": 102,
-      "previous": "許馥欣",
-      "next": [
-        "曾柏逸",
-        "謝侑霖"
-      ]
-    },
-    {
-      "name": "謝侑霖",
-      "grade": 103,
-      "previous": "吳崧瑋",
-      "next": [
-        "陳旻隆"
-      ]
-    },
-    {
-      "name": "李哲宇",
-      "grade": 104,
-      "previous": "曾柏逸",
-      "next": []
-    },
-    {
-      "name": "陳旻隆",
-      "grade": 104,
-      "previous": "謝侑霖",
-      "next": []
-    },
-    {
-      "name": "曾柏逸",
-      "grade": 103,
-      "previous": "吳崧瑋",
-      "next": [
-        "李哲宇"
-      ]
-    },
-    {
-      "name": "陳文暐",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "曾文鈺"
-      ]
-    },
-    {
-      "name": "曾文鈺",
-      "grade": 101,
-      "previous": "陳文暐",
-      "next": [
-        "李政德"
-      ]
-    },
-    {
-      "name": "李政德",
-      "grade": 102,
-      "previous": "曾文鈺",
-      "next": [
-        "鍾天佑"
-      ]
-    },
-    {
-      "name": "陳姿穎",
-      "grade": 104,
-      "previous": "鍾天佑",
-      "next": []
-    },
-    {
-      "name": "鍾天佑",
-      "grade": 103,
-      "previous": "李政德",
-      "next": [
-        "陳姿穎"
-      ]
-    },
-    {
-      "name": "蔡逸彬",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "譚馳雍"
-      ]
-    },
-    {
-      "name": "譚馳雍",
-      "grade": 101,
-      "previous": "蔡逸彬",
-      "next": [
-        "陳綺"
-      ]
-    },
-    {
-      "name": "陳綺",
-      "grade": 102,
-      "previous": "譚馳雍",
-      "next": []
-    },
-    {
-      "name": "林庭瑀",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "吳幸怡"
-      ]
-    },
-    {
-      "name": "吳幸怡",
-      "grade": 101,
-      "previous": "林庭瑀",
-      "next": [
-        "李子婕"
-      ]
-    },
-    {
-      "name": "李子婕",
-      "grade": 102,
-      "previous": "吳幸怡",
-      "next": [
-        "李芷婷"
-      ]
-    },
-    {
-      "name": "呂明修",
-      "grade": 104,
-      "previous": "李芷婷",
-      "next": []
-    },
-    {
-      "name": "李芷婷",
-      "grade": 103,
-      "previous": "李子婕",
-      "next": [
-        "呂明修"
-      ]
-    },
-    {
-      "name": "葉詠富",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "柳岑歡"
-      ]
-    },
-    {
-      "name": "柳岑歡",
-      "grade": 101,
-      "previous": "葉詠富",
-      "next": [
-        "林宗楷"
-      ]
-    },
-    {
-      "name": "林宗楷",
-      "grade": 102,
-      "previous": "柳岑歡",
-      "next": [
-        "許牧耘"
-      ]
-    },
-    {
-      "name": "萬育瑄",
-      "grade": 104,
-      "previous": "許牧耘",
-      "next": []
-    },
-    {
-      "name": "許牧耘",
-      "grade": 103,
-      "previous": "林宗楷",
-      "next": [
-        "萬育瑄"
-      ]
-    },
-    {
-      "name": "溫志豪",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "翁相陽"
-      ]
-    },
-    {
-      "name": "翁相陽",
-      "grade": 102,
-      "previous": "溫志豪",
-      "next": [
-        "蔡承翰"
-      ]
-    },
-    {
-      "name": "簡秉宏",
-      "grade": 104,
-      "previous": "蔡承翰",
-      "next": []
-    },
-    {
-      "name": "蔡承翰",
-      "grade": 103,
-      "previous": "翁相陽",
-      "next": [
-        "簡秉宏"
-      ]
-    },
-    {
-      "name": "陳瑞河",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "袁翰林"
-      ]
-    },
-    {
-      "name": "袁翰林",
-      "grade": 102,
-      "previous": "陳瑞河",
-      "next": [
-        "趙城綱"
-      ]
-    },
-    {
-      "name": "孫于婷",
-      "grade": 104,
-      "previous": "趙城綱",
-      "next": []
-    },
-    {
-      "name": "趙城綱",
-      "grade": 103,
-      "previous": "袁翰林",
-      "next": [
-        "孫于婷"
-      ]
-    },
-    {
-      "name": "林韋志",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "龔如心"
-      ]
-    },
-    {
-      "name": "龔如心",
-      "grade": 101,
-      "previous": "林韋志",
-      "next": [
-        "何怡珣"
-      ]
-    },
-    {
-      "name": "何怡珣",
-      "grade": 102,
-      "previous": "龔如心",
-      "next": [
-        "洪薏雯"
-      ]
-    },
-    {
-      "name": "張昭德",
-      "grade": 104,
-      "previous": "洪薏雯",
-      "next": []
-    },
-    {
-      "name": "洪薏雯",
-      "grade": 103,
-      "previous": "何怡珣",
-      "next": [
-        "張昭德"
-      ]
-    },
-    {
-      "name": "康耀中",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "沈妤芳"
-      ]
-    },
-    {
-      "name": "沈妤芳",
-      "grade": 101,
-      "previous": "康耀中",
-      "next": [
-        "呂冠德"
-      ]
-    },
-    {
-      "name": "呂冠德",
-      "grade": 102,
-      "previous": "沈妤芳",
-      "next": [
-        "柳怡嘉"
-      ]
-    },
-    {
-      "name": "陳佳辰",
-      "grade": 104,
-      "previous": "柳怡嘉",
-      "next": []
-    },
-    {
-      "name": "柳怡嘉",
-      "grade": 103,
-      "previous": "呂冠德",
-      "next": [
-        "陳佳辰"
-      ]
-    },
-    {
-      "name": "蔡秉芸",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "呂健瑜"
-      ]
-    },
-    {
-      "name": "呂健瑜",
-      "grade": 101,
-      "previous": "蔡秉芸",
-      "next": [
-        "林溢偉"
-      ]
-    },
-    {
-      "name": "林溢偉",
-      "grade": 102,
-      "previous": "呂健瑜",
-      "next": [
-        "盧民杰"
-      ]
-    },
-    {
-      "name": "謝權信",
-      "grade": 104,
-      "previous": "盧民杰",
-      "next": []
-    },
-    {
-      "name": "盧民杰",
-      "grade": 103,
-      "previous": "林溢偉",
-      "next": [
-        "謝權信"
-      ]
-    },
-    {
-      "name": "許嘉雯",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "蔡銘家"
-      ]
-    },
-    {
-      "name": "蔡銘家",
-      "grade": 101,
-      "previous": "許嘉雯",
-      "next": [
-        "陳子鈞"
-      ]
-    },
-    {
-      "name": "陳子鈞",
-      "grade": 102,
-      "previous": "蔡銘家",
-      "next": [
-        "詹銘仁"
-      ]
-    },
-    {
-      "name": "戴唯承",
-      "grade": 104,
-      "previous": "詹銘仁",
-      "next": []
-    },
-    {
-      "name": "詹銘仁",
-      "grade": 103,
-      "previous": "陳子鈞",
-      "next": [
-        "戴唯承"
-      ]
-    },
-    {
-      "name": "邱煜修",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "彭修瓊"
-      ]
-    },
-    {
-      "name": "彭修瓊",
-      "grade": 101,
-      "previous": "邱煜修",
-      "next": [
-        "蕭偉哲"
-      ]
-    },
-    {
-      "name": "蕭偉哲",
-      "grade": 102,
-      "previous": "彭修瓊",
-      "next": [
-        "許郁翎"
-      ]
-    },
-    {
-      "name": "張祐銓",
-      "grade": 104,
-      "previous": "許郁翎",
-      "next": []
-    },
-    {
-      "name": "許郁翎",
-      "grade": 103,
-      "previous": "蕭偉哲",
-      "next": [
-        "張祐銓"
-      ]
-    },
-    {
-      "name": "鄭宗倫",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "吳柏諺"
-      ]
-    },
-    {
-      "name": "吳柏諺",
-      "grade": 101,
-      "previous": "鄭宗倫",
-      "next": [
-        "吳哲賢"
-      ]
-    },
-    {
-      "name": "吳哲賢",
-      "grade": 102,
-      "previous": "吳柏諺",
-      "next": [
-        "劉兆軒"
-      ]
-    },
-    {
-      "name": "羅樂庭",
-      "grade": 104,
-      "previous": "劉兆軒",
-      "next": []
-    },
-    {
-      "name": "劉兆軒",
-      "grade": 103,
-      "previous": "吳哲賢",
-      "next": [
-        "羅樂庭"
-      ]
-    },
-    {
-      "name": "洪碁",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "陳昱安"
-      ]
-    },
-    {
-      "name": "陳昱安",
-      "grade": 101,
-      "previous": "洪碁",
-      "next": [
-        "鄭文杰"
-      ]
-    },
-    {
-      "name": "鄭文杰",
-      "grade": 102,
-      "previous": "陳昱安",
-      "next": [
-        "陳佑銘"
-      ]
-    },
-    {
-      "name": "陳冠宇",
-      "grade": 104,
-      "previous": "陳佑銘",
-      "next": []
-    },
-    {
-      "name": "陳佑銘",
-      "grade": 103,
-      "previous": "鄭文杰",
-      "next": [
-        "陳冠宇"
-      ]
-    },
-    {
-      "name": "高映慈",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "葉宣余"
-      ]
-    },
-    {
-      "name": "葉宣余",
-      "grade": 101,
-      "previous": "高映慈",
-      "next": [
-        "吳承翰"
-      ]
-    },
-    {
-      "name": "吳承翰",
-      "grade": 102,
-      "previous": "葉宣余",
-      "next": [
-        "周凱威"
-      ]
-    },
-    {
-      "name": "劉佩宜",
-      "grade": 104,
-      "previous": "周凱威",
-      "next": []
-    },
-    {
-      "name": "周凱威",
-      "grade": 103,
-      "previous": "吳承翰",
-      "next": [
-        "劉佩宜"
-      ]
-    },
-    {
-      "name": "李芷宣",
-      "grade": 101,
-      "previous": "",
-      "next": [
-        "林皓鈺"
-      ]
-    },
-    {
-      "name": "林皓鈺",
-      "grade": 102,
-      "previous": "李芷宣",
-      "next": [
-        "江翎瑋"
-      ]
-    },
-    {
-      "name": "林君璟",
-      "grade": 104,
-      "previous": "江翎瑋",
-      "next": []
-    },
-    {
-      "name": "江翎瑋",
-      "grade": 103,
-      "previous": "林皓鈺",
-      "next": [
-        "林君璟"
-      ]
-    },
-    {
-      "name": "藍玉朋",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "林子杰"
-      ]
-    },
-    {
-      "name": "林子杰",
-      "grade": 101,
-      "previous": "藍玉朋",
-      "next": [
-        "賴玟羽"
-      ]
-    },
-    {
-      "name": "賴玟羽",
-      "grade": 102,
-      "previous": "林子杰",
-      "next": [
-        "陳彥銨"
-      ]
-    },
-    {
-      "name": "朱以誠",
-      "grade": 104,
-      "previous": "陳彥銨",
-      "next": []
-    },
-    {
-      "name": "陳彥銨",
-      "grade": 103,
-      "previous": "賴玟羽",
-      "next": [
-        "朱以誠"
-      ]
-    },
-    {
-      "name": "陳謙",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "李建源"
-      ]
-    },
-    {
-      "name": "李建源",
-      "grade": 101,
-      "previous": "陳謙",
-      "next": [
-        "許仁豪"
-      ]
-    },
-    {
-      "name": "許仁豪",
-      "grade": 102,
-      "previous": "李建源",
-      "next": [
-        "林俊宇"
-      ]
-    },
-    {
-      "name": "謝明勳",
-      "grade": 104,
-      "previous": "林俊宇",
-      "next": []
-    },
-    {
-      "name": "林俊宇",
-      "grade": 103,
-      "previous": "許仁豪",
-      "next": [
-        "謝明勳"
-      ]
-    },
-    {
-      "name": "莊澤玉",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "劉為尹"
-      ]
-    },
-    {
-      "name": "劉為尹",
-      "grade": 101,
-      "previous": "莊澤玉",
-      "next": [
-        "黃永仁"
-      ]
-    },
-    {
-      "name": "黃永仁",
-      "grade": 102,
-      "previous": "劉為尹",
-      "next": [
-        "羅國豪"
-      ]
-    },
-    {
-      "name": "吳東諺",
-      "grade": 104,
-      "previous": "羅國豪",
-      "next": []
-    },
-    {
-      "name": "羅國豪",
-      "grade": 103,
-      "previous": "黃永仁",
-      "next": [
-        "吳東諺"
-      ]
-    },
-    {
-      "name": "劉宇威",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "王子睿"
-      ]
-    },
-    {
-      "name": "王子睿",
-      "grade": 101,
-      "previous": "劉宇威",
-      "next": [
-        "林祺恩"
-      ]
-    },
-    {
-      "name": "林祺恩",
-      "grade": 102,
-      "previous": "王子睿",
-      "next": [
-        "江明謙"
-      ]
-    },
-    {
-      "name": "高竹均",
-      "grade": 104,
-      "previous": "江明謙",
-      "next": []
-    },
-    {
-      "name": "江明謙",
-      "grade": 103,
-      "previous": "林祺恩",
-      "next": [
-        "高竹均"
-      ]
-    },
-    {
-      "name": "林子皓",
-      "grade": 101,
-      "previous": "",
-      "next": [
-        "趙怡華"
-      ]
-    },
-    {
-      "name": "趙怡華",
-      "grade": 102,
-      "previous": "林子皓",
-      "next": [
-        "戴胤",
-        "陳思宇"
-      ]
-    },
-    {
-      "name": "徐婉瑄",
-      "grade": 104,
-      "previous": "陳思宇",
-      "next": []
-    },
-    {
-      "name": "陳思宇",
-      "grade": 103,
-      "previous": "趙怡華",
-      "next": [
-        "徐婉瑄"
-      ]
-    },
-    {
-      "name": "邱慶弘",
-      "grade": 104,
-      "previous": "戴胤",
-      "next": []
-    },
-    {
-      "name": "戴胤",
-      "grade": 103,
-      "previous": "趙怡華",
-      "next": [
-        "邱慶弘"
-      ]
-    },
-    {
-      "name": "謝昕哲",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "廖柏鈞"
-      ]
-    },
-    {
-      "name": "廖柏鈞",
-      "grade": 101,
-      "previous": "謝昕哲",
-      "next": [
-        "王韻婷"
-      ]
-    },
-    {
-      "name": "王韻婷",
-      "grade": 102,
-      "previous": "廖柏鈞",
-      "next": [
-        "徐倩濡"
-      ]
-    },
-    {
-      "name": "戴靜雯",
-      "grade": 104,
-      "previous": "徐倩濡",
-      "next": []
-    },
-    {
-      "name": "徐倩濡",
-      "grade": 103,
-      "previous": "王韻婷",
-      "next": [
-        "戴靜雯"
-      ]
-    },
-    {
-      "name": "陳宇軒",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "張逢文"
-      ]
-    },
-    {
-      "name": "張逢文",
-      "grade": 101,
-      "previous": "陳宇軒",
-      "next": [
-        "王亭堯"
-      ]
-    },
-    {
-      "name": "王亭堯",
-      "grade": 102,
-      "previous": "張逢文",
-      "next": [
-        "陳頡輿"
-      ]
-    },
-    {
-      "name": "李泓緯",
-      "grade": 104,
-      "previous": "陳頡輿",
-      "next": []
-    },
-    {
-      "name": "陳頡輿",
-      "grade": 103,
-      "previous": "王亭堯",
-      "next": [
-        "李泓緯"
-      ]
-    },
-    {
-      "name": "梁書睿",
-      "grade": 101,
-      "previous": "",
-      "next": [
-        "王鈺鎔"
-      ]
-    },
-    {
-      "name": "王鈺鎔",
-      "grade": 102,
-      "previous": "梁書睿",
-      "next": [
-        "侯皓中"
-      ]
-    },
-    {
-      "name": "劉威誠",
-      "grade": 104,
-      "previous": "侯皓中",
-      "next": []
-    },
-    {
-      "name": "侯皓中",
-      "grade": 103,
-      "previous": "王鈺鎔",
-      "next": [
-        "劉威誠"
-      ]
-    },
-    {
-      "name": "施丞優",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "宋題均"
-      ]
-    },
-    {
-      "name": "宋題均",
-      "grade": 101,
-      "previous": "施丞優",
-      "next": [
-        "曾煒翔"
-      ]
-    },
-    {
-      "name": "曾煒翔",
-      "grade": 102,
-      "previous": "宋題均",
-      "next": [
-        "陳冠廷"
-      ]
-    },
-    {
-      "name": "康聖玄",
-      "grade": 104,
-      "previous": "陳冠廷",
-      "next": []
-    },
-    {
-      "name": "陳冠廷",
-      "grade": 103,
-      "previous": "曾煒翔",
-      "next": [
-        "康聖玄"
-      ]
-    },
-    {
-      "name": "陳愷宏",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "薛志成"
-      ]
-    },
-    {
-      "name": "薛志成",
-      "grade": 101,
-      "previous": "陳愷宏",
-      "next": [
-        "馮信偉"
-      ]
-    },
-    {
-      "name": "馮信偉",
-      "grade": 102,
-      "previous": "薛志成",
-      "next": [
-        "陳啟郡"
-      ]
-    },
-    {
-      "name": "蔡宗紘",
-      "grade": 104,
-      "previous": "陳啟郡",
-      "next": []
-    },
-    {
-      "name": "陳啟郡",
-      "grade": 103,
-      "previous": "馮信偉",
-      "next": [
-        "蔡宗紘"
-      ]
-    },
-    {
-      "name": "張郁昇",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "李宗儒"
-      ]
-    },
-    {
-      "name": "李宗儒",
-      "grade": 101,
-      "previous": "張郁昇",
-      "next": [
-        "錢慶彰"
-      ]
-    },
-    {
-      "name": "錢慶彰",
-      "grade": 102,
-      "previous": "李宗儒",
-      "next": [
-        "朱晨瑋"
-      ]
-    },
-    {
-      "name": "楊智平",
-      "grade": 104,
-      "previous": "朱晨瑋",
-      "next": []
-    },
-    {
-      "name": "朱晨瑋",
-      "grade": 103,
-      "previous": "錢慶彰",
-      "next": [
-        "楊智平"
-      ]
-    },
-    {
-      "name": "賴其昀",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "趙守恩"
-      ]
-    },
-    {
-      "name": "趙守恩",
-      "grade": 101,
-      "previous": "賴其昀",
-      "next": [
-        "吳澄練"
-      ]
-    },
-    {
-      "name": "吳澄練",
-      "grade": 102,
-      "previous": "趙守恩",
-      "next": [
-        "陳冠儒"
-      ]
-    },
-    {
-      "name": "郭旻昌",
-      "grade": 104,
-      "previous": "陳冠儒",
-      "next": []
-    },
-    {
-      "name": "陳冠儒",
-      "grade": 103,
-      "previous": "吳澄練",
-      "next": [
-        "郭旻昌"
-      ]
-    },
-    {
-      "name": "徐一民",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "程麒任"
-      ]
-    },
-    {
-      "name": "程麒任",
-      "grade": 101,
-      "previous": "徐一民",
-      "next": [
-        "陳正雄"
-      ]
-    },
-    {
-      "name": "陳正雄",
-      "grade": 102,
-      "previous": "程麒任",
-      "next": [
-        "蔡明諺"
-      ]
-    },
-    {
-      "name": "林苡樂",
-      "grade": 104,
-      "previous": "蔡明諺",
-      "next": []
-    },
-    {
-      "name": "蔡明諺",
-      "grade": 103,
-      "previous": "陳正雄",
-      "next": [
-        "林苡樂"
-      ]
-    },
-    {
-      "name": "孫宏奇",
-      "grade": 101,
-      "previous": "",
-      "next": [
-        "蘇蕙欣"
-      ]
-    },
-    {
-      "name": "蘇蕙欣",
-      "grade": 102,
-      "previous": "孫宏奇",
-      "next": [
-        "欒又禎"
-      ]
-    },
-    {
-      "name": "欒又禎",
-      "grade": 103,
-      "previous": "蘇蕙欣",
-      "next": [
-        "闕壯和"
-      ]
-    },
-    {
-      "name": "闕壯和",
-      "grade": 104,
-      "previous": "欒又禎",
-      "next": []
-    },
-    {
-      "name": "歐陽濬",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "陳俊嘉"
-      ]
-    },
-    {
-      "name": "陳俊嘉",
-      "grade": 101,
-      "previous": "歐陽濬",
-      "next": [
-        "陳 毅"
-      ]
-    },
-    {
-      "name": "陳 毅",
-      "grade": 102,
-      "previous": "陳俊嘉",
-      "next": [
-        "莊詠鈞"
-      ]
-    },
-    {
-      "name": "黃韋中",
-      "grade": 104,
-      "previous": "莊詠鈞",
-      "next": []
-    },
-    {
-      "name": "莊詠鈞",
-      "grade": 103,
-      "previous": "陳 毅",
-      "next": [
-        "黃韋中"
-      ]
-    },
-    {
-      "name": "呂昊叡",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "郭寶祥"
-      ]
-    },
-    {
-      "name": "郭寶祥",
-      "grade": 101,
-      "previous": "呂昊叡",
-      "next": [
-        "高聖翔"
-      ]
-    },
-    {
-      "name": "高聖翔",
-      "grade": 102,
-      "previous": "郭寶祥",
-      "next": [
-        "黃奕棠"
-      ]
-    },
-    {
-      "name": "林孟毅",
-      "grade": 104,
-      "previous": "黃奕棠",
-      "next": []
-    },
-    {
-      "name": "黃奕棠",
-      "grade": 103,
-      "previous": "高聖翔",
-      "next": [
-        "林孟毅"
-      ]
-    },
-    {
-      "name": "余少均",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "謝柏維"
-      ]
-    },
-    {
-      "name": "謝柏維",
-      "grade": 101,
-      "previous": "余少均",
-      "next": [
-        "張鈞堯"
-      ]
-    },
-    {
-      "name": "張鈞堯",
-      "grade": 102,
-      "previous": "謝柏維",
-      "next": [
-        "甘英煥"
-      ]
-    },
-    {
-      "name": "黃睦鈞",
-      "grade": 104,
-      "previous": "甘英煥",
-      "next": []
-    },
-    {
-      "name": "甘英煥",
-      "grade": 103,
-      "previous": "張鈞堯",
-      "next": [
-        "黃睦鈞"
-      ]
-    },
-    {
-      "name": "賴冠瑋",
-      "grade": 101,
-      "previous": "",
-      "next": [
-        "黃詩安"
-      ]
-    },
-    {
-      "name": "黃詩安",
-      "grade": 102,
-      "previous": "賴冠瑋",
-      "next": [
-        "李承儒"
-      ]
-    },
-    {
-      "name": "李承儒",
-      "grade": 103,
-      "previous": "黃詩安",
-      "next": [
-        "黃靜嚴"
-      ]
-    },
-    {
-      "name": "黃靜嚴",
-      "grade": 104,
-      "previous": "李承儒",
-      "next": [
-        "李承儒"
-      ]
-    },
-    {
-      "name": "張連環",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "鄭宇倫"
-      ]
-    },
-    {
-      "name": "鄭宇倫",
-      "grade": 101,
-      "previous": "張連環",
-      "next": [
-        "文皓德"
-      ]
-    },
-    {
-      "name": "文皓德",
-      "grade": 102,
-      "previous": "鄭宇倫",
-      "next": [
-        "馮偉倫"
-      ]
-    },
-    {
-      "name": "詹婷",
-      "grade": 104,
-      "previous": "馮偉倫",
-      "next": []
-    },
-    {
-      "name": "馮偉倫",
-      "grade": 103,
-      "previous": "文皓德",
-      "next": [
-        "詹婷"
-      ]
-    },
-    {
-      "name": "簡玉宣",
-      "grade": 101,
-      "previous": "",
-      "next": [
-        "鄭婷"
-      ]
-    },
-    {
-      "name": "鄭婷",
-      "grade": 102,
-      "previous": "簡玉宣",
-      "next": [
-        "程譯"
-      ]
-    },
-    {
-      "name": "王子恒",
-      "grade": 104,
-      "previous": "程譯",
-      "next": []
-    },
-    {
-      "name": "程譯",
-      "grade": 103,
-      "previous": "鄭婷",
-      "next": [
-        "王子恒"
-      ]
-    },
-    {
-      "name": "劉哲豪",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "吳柏汎"
-      ]
-    },
-    {
-      "name": "吳柏汎",
-      "grade": 101,
-      "previous": "劉哲豪",
-      "next": [
-        "張繼仁"
-      ]
-    },
-    {
-      "name": "張繼仁",
-      "grade": 102,
-      "previous": "吳柏汎",
-      "next": [
-        "梁益銓"
-      ]
-    },
-    {
-      "name": "王重尹",
-      "grade": 104,
-      "previous": "梁益銓",
-      "next": []
-    },
-    {
-      "name": "梁益銓",
-      "grade": 103,
-      "previous": "張繼仁",
-      "next": [
-        "王重尹"
-      ]
-    },
-    {
-      "name": "鍾佳儒",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "洪維柏"
-      ]
-    },
-    {
-      "name": "洪維柏",
-      "grade": 101,
-      "previous": "鍾佳儒",
-      "next": [
-        "許育榮"
-      ]
-    },
-    {
-      "name": "許育榮",
-      "grade": 102,
-      "previous": "洪維柏",
-      "next": [
-        "張天陽"
-      ]
-    },
-    {
-      "name": "黃意翔",
-      "grade": 104,
-      "previous": "張天陽",
-      "next": []
-    },
-    {
-      "name": "張天陽",
-      "grade": 103,
-      "previous": "許育榮",
-      "next": [
-        "黃意翔"
-      ]
-    },
-    {
-      "name": "邱茂政",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "李閎嚴"
-      ]
-    },
-    {
-      "name": "李閎嚴",
-      "grade": 101,
-      "previous": "邱茂政",
-      "next": [
-        "徐瑋辰"
-      ]
-    },
-    {
-      "name": "徐瑋辰",
-      "grade": 102,
-      "previous": "李閎嚴",
-      "next": [
-        "林亭家",
-        "吳家榮"
-      ]
-    },
-    {
-      "name": "吳家榮",
-      "grade": 103,
-      "previous": "徐瑋辰",
-      "next": [
-        "蘇祐陞"
-      ]
-    },
-    {
-      "name": "蘇祐陞",
-      "grade": 104,
-      "previous": "吳家榮",
-      "next": []
-    },
-    {
-      "name": "張立欣",
-      "grade": 104,
-      "previous": "林亭家",
-      "next": []
-    },
-    {
-      "name": "林亭家",
-      "grade": 103,
-      "previous": "徐瑋辰",
-      "next": [
-        "張立欣"
-      ]
-    },
-    {
-      "name": "林愷宏",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "曾崇軒"
-      ]
-    },
-    {
-      "name": "曾崇軒",
-      "grade": 101,
-      "previous": "林愷宏",
-      "next": [
-        "陳柏瑞"
-      ]
-    },
-    {
-      "name": "陳柏瑞",
-      "grade": 102,
-      "previous": "曾崇軒",
-      "next": [
-        "黃翌軒"
-      ]
-    },
-    {
-      "name": "蔡曜謙",
-      "grade": 104,
-      "previous": "黃翌軒",
-      "next": []
-    },
-    {
-      "name": "黃翌軒",
-      "grade": 103,
-      "previous": "陳柏瑞",
-      "next": [
-        "蔡曜謙"
-      ]
-    },
-    {
-      "name": "呂進偉",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "許瑞顯"
-      ]
-    },
-    {
-      "name": "許瑞顯",
-      "grade": 101,
-      "previous": "呂進偉",
-      "next": [
-        "邱奕豪"
-      ]
-    },
-    {
-      "name": "邱奕豪",
-      "grade": 103,
-      "previous": "許瑞顯",
-      "next": [
-        "張雅淳"
-      ]
-    },
-    {
-      "name": "張雅淳",
-      "grade": 104,
-      "previous": "邱奕豪",
-      "next": []
-    },
-    {
-      "name": "應劭玄",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "李佳穎"
-      ]
-    },
-    {
-      "name": "李佳穎",
-      "grade": 101,
-      "previous": "應劭玄",
-      "next": [
-        "涂幃翔"
-      ]
-    },
-    {
-      "name": "涂幃翔",
-      "grade": 102,
-      "previous": "李佳穎",
-      "next": [
-        "蕭富辰"
-      ]
-    },
-    {
-      "name": "黃聖鈞",
-      "grade": 104,
-      "previous": "蕭富辰",
-      "next": []
-    },
-    {
-      "name": "蕭富辰",
-      "grade": 103,
-      "previous": "涂幃翔",
-      "next": [
-        "黃聖鈞"
-      ]
-    },
-    {
-      "name": "呂皓瑋",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "范博為"
-      ]
-    },
-    {
-      "name": "范博為",
-      "grade": 101,
-      "previous": "呂皓瑋",
-      "next": [
-        "林靖智"
-      ]
-    },
-    {
-      "name": "林靖智",
-      "grade": 102,
-      "previous": "范博為",
-      "next": [
-        "陳佑昇",
-        "李昱承"
-      ]
-    },
-    {
-      "name": "紀沅甫",
-      "grade": 104,
-      "previous": "陳佑昇",
-      "next": []
-    },
-    {
-      "name": "陳佑昇",
-      "grade": 103,
-      "previous": "林靖智",
-      "next": [
-        "紀沅甫"
-      ]
-    },
-    {
-      "name": "黃郁融",
-      "grade": 104,
-      "previous": "李昱承",
-      "next": []
-    },
-    {
-      "name": "李昱承",
-      "grade": 103,
-      "previous": "林靖智",
-      "next": [
-        "黃郁融"
-      ]
-    },
-    {
-      "name": "林宜萱",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "李庭慶"
-      ]
-    },
-    {
-      "name": "李庭慶",
-      "grade": 101,
-      "previous": "林宜萱",
-      "next": [
-        "藍郁翔"
-      ]
-    },
-    {
-      "name": "藍郁翔",
-      "grade": 102,
-      "previous": "李庭慶",
-      "next": [
-        "姜遠宜"
-      ]
-    },
-    {
-      "name": "曾宇嫻",
-      "grade": 104,
-      "previous": "姜遠宜",
-      "next": []
-    },
-    {
-      "name": "姜遠宜",
-      "grade": 103,
-      "previous": "藍郁翔",
-      "next": [
-        "曾宇嫻"
-      ]
-    },
-    {
-      "name": "黃雅琳",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "李宜霖"
-      ]
-    },
-    {
-      "name": "李宜霖",
-      "grade": 101,
-      "previous": "黃雅琳",
-      "next": [
-        "邱建彰"
-      ]
-    },
-    {
-      "name": "邱建彰",
-      "grade": 102,
-      "previous": "李宜霖",
-      "next": [
-        "黃詠勝"
-      ]
-    },
-    {
-      "name": "沈子翔",
-      "grade": 104,
-      "previous": "黃詠勝",
-      "next": []
-    },
-    {
-      "name": "黃詠勝",
-      "grade": 103,
-      "previous": "邱建彰",
-      "next": [
-        "沈子翔"
-      ]
-    },
-    {
-      "name": "張 勻",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "陳柏霖"
-      ]
-    },
-    {
-      "name": "陳柏霖",
-      "grade": 101,
-      "previous": "張 勻",
-      "next": [
-        "董奕賢"
-      ]
-    },
-    {
-      "name": "董奕賢",
-      "grade": 102,
-      "previous": "陳柏霖",
-      "next": [
-        "李沛頡"
-      ]
-    },
-    {
-      "name": "詹承翰",
-      "grade": 104,
-      "previous": "李沛頡",
-      "next": []
-    },
-    {
-      "name": "李沛頡",
-      "grade": 103,
-      "previous": "董奕賢",
-      "next": [
-        "詹承翰"
-      ]
-    },
-    {
-      "name": "葉子卿",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "林格屹"
-      ]
-    },
-    {
-      "name": "林格屹",
-      "grade": 102,
-      "previous": "葉子卿",
-      "next": [
-        "崔峰賓"
-      ]
-    },
-    {
-      "name": "陳奕儒",
-      "grade": 104,
-      "previous": "崔峰賓",
-      "next": []
-    },
-    {
-      "name": "崔峰賓",
-      "grade": 103,
-      "previous": "林格屹",
-      "next": [
-        "陳奕儒"
-      ]
-    },
-    {
-      "name": "呂庭光",
-      "grade": 101,
-      "previous": "",
-      "next": [
-        "林勁甫"
-      ]
-    },
-    {
-      "name": "林勁甫",
-      "grade": 102,
-      "previous": "呂庭光",
-      "next": [
-        "林宇政"
-      ]
-    },
-    {
-      "name": "王作賓",
-      "grade": 104,
-      "previous": "林宇政",
-      "next": []
-    },
-    {
-      "name": "林宇政",
-      "grade": 103,
-      "previous": "林勁甫",
-      "next": [
-        "王作賓"
-      ]
-    },
-    {
-      "name": "徐仁山",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "林正軒"
-      ]
-    },
-    {
-      "name": "林正軒",
-      "grade": 101,
-      "previous": "徐仁山",
-      "next": [
-        "方詠安"
-      ]
-    },
-    {
-      "name": "方詠安",
-      "grade": 102,
-      "previous": "林正軒",
-      "next": [
-        "林宗翰"
-      ]
-    },
-    {
-      "name": "鄭偉丞",
-      "grade": 104,
-      "previous": "林宗翰",
-      "next": []
-    },
-    {
-      "name": "林宗翰",
-      "grade": 103,
-      "previous": "方詠安",
-      "next": [
-        "鄭偉丞"
-      ]
-    },
-    {
-      "name": "黃朝晟",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "湯沂達"
-      ]
-    },
-    {
-      "name": "湯沂達",
-      "grade": 101,
-      "previous": "黃朝晟",
-      "next": [
-        "陳俊瑜"
-      ]
-    },
-    {
-      "name": "陳俊瑜",
-      "grade": 102,
-      "previous": "湯沂達",
-      "next": [
-        "黃樂賢"
-      ]
-    },
-    {
-      "name": "王崇安",
-      "grade": 104,
-      "previous": "黃樂賢",
-      "next": []
-    },
-    {
-      "name": "黃樂賢",
-      "grade": 103,
-      "previous": "陳俊瑜",
-      "next": [
-        "王崇安"
-      ]
-    },
-    {
-      "name": "王遠智",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "謝孟君"
-      ]
-    },
-    {
-      "name": "謝孟君",
-      "grade": 101,
-      "previous": "王遠智",
-      "next": [
-        "黃聖涵"
-      ]
-    },
-    {
-      "name": "黃聖涵",
-      "grade": 102,
-      "previous": "謝孟君",
-      "next": [
-        "陳奕昕"
-      ]
-    },
-    {
-      "name": "朱家辰",
-      "grade": 104,
-      "previous": "陳奕昕",
-      "next": []
-    },
-    {
-      "name": "陳奕昕",
-      "grade": 103,
-      "previous": "黃聖涵",
-      "next": [
-        "朱家辰"
-      ]
-    },
-    {
-      "name": "蔡承翰",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "梁沐嶸"
-      ]
-    },
-    {
-      "name": "梁沐嶸",
-      "grade": 101,
-      "previous": "蔡承翰",
-      "next": [
-        "張書榕"
-      ]
-    },
-    {
-      "name": "張書榕",
-      "grade": 102,
-      "previous": "梁沐嶸",
-      "next": [
-        "張仕昇"
-      ]
-    },
-    {
-      "name": "廖宏翊",
-      "grade": 104,
-      "previous": "張仕昇",
-      "next": []
-    },
-    {
-      "name": "張仕昇",
-      "grade": 103,
-      "previous": "張書榕",
-      "next": [
-        "廖宏翊"
-      ]
-    },
-    {
-      "name": "武傳軒",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "陳靖玟"
-      ]
-    },
-    {
-      "name": "陳靖玟",
-      "grade": 101,
-      "previous": "武傳軒",
-      "next": [
-        "劉宇哲"
-      ]
-    },
-    {
-      "name": "劉宇哲",
-      "grade": 102,
-      "previous": "陳靖玟",
-      "next": [
-        "賴慶杰"
-      ]
-    },
-    {
-      "name": "戴辰",
-      "grade": 104,
-      "previous": "賴慶杰",
-      "next": []
-    },
-    {
-      "name": "賴慶杰",
-      "grade": 103,
-      "previous": "劉宇哲",
-      "next": [
-        "戴辰"
-      ]
-    },
-    {
-      "name": "高嘉宏",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "王乃民"
-      ]
-    },
-    {
-      "name": "王乃民",
-      "grade": 101,
-      "previous": "高嘉宏",
-      "next": [
-        "楊宗哲"
-      ]
-    },
-    {
-      "name": "楊宗哲",
-      "grade": 102,
-      "previous": "王乃民",
-      "next": [
-        "陳致宇"
-      ]
-    },
-    {
-      "name": "李皓南",
-      "grade": 104,
-      "previous": "陳致宇",
-      "next": []
-    },
-    {
-      "name": "陳致宇",
-      "grade": 103,
-      "previous": "楊宗哲",
-      "next": [
-        "李皓南"
-      ]
-    },
-    {
-      "name": "朱 儀",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "馮冠群"
-      ]
-    },
-    {
-      "name": "馮冠群",
-      "grade": 101,
-      "previous": "朱 儀",
-      "next": [
-        "董玠佑"
-      ]
-    },
-    {
-      "name": "董玠佑",
-      "grade": 102,
-      "previous": "馮冠群",
-      "next": [
-        "許家齊"
-      ]
-    },
-    {
-      "name": "李昀叡",
-      "grade": 104,
-      "previous": "許家齊",
-      "next": []
-    },
-    {
-      "name": "許家齊",
-      "grade": 103,
-      "previous": "董玠佑",
-      "next": [
-        "李昀叡"
-      ]
-    },
-    {
-      "name": "鄭倩如",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "黃知盈"
-      ]
-    },
-    {
-      "name": "黃知盈",
-      "grade": 101,
-      "previous": "鄭倩如",
-      "next": [
-        "陳湛圖"
-      ]
-    },
-    {
-      "name": "陳湛圖",
-      "grade": 102,
-      "previous": "黃知盈",
-      "next": [
-        "吳翎毓"
-      ]
-    },
-    {
-      "name": "黃孟凱",
-      "grade": 104,
-      "previous": "吳翎毓",
-      "next": []
-    },
-    {
-      "name": "吳翎毓",
-      "grade": 103,
-      "previous": "陳湛圖",
-      "next": [
-        "黃孟凱"
-      ]
-    },
-    {
-      "name": "莊珺涵",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "許竣堡"
-      ]
-    },
-    {
-      "name": "許竣堡",
-      "grade": 101,
-      "previous": "莊珺涵",
-      "next": [
-        "梁瑋修"
-      ]
-    },
-    {
-      "name": "梁瑋修",
-      "grade": 102,
-      "previous": "許竣堡",
-      "next": [
-        "梁貿淞"
-      ]
-    },
-    {
-      "name": "黃聖翔",
-      "grade": 104,
-      "previous": "梁貿淞",
-      "next": []
-    },
-    {
-      "name": "梁貿淞",
-      "grade": 103,
-      "previous": "梁瑋修",
-      "next": [
-        "黃聖翔"
-      ]
-    },
-    {
-      "name": "俞政廷",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "何子宸"
-      ]
-    },
-    {
-      "name": "何子宸",
-      "grade": 101,
-      "previous": "俞政廷",
-      "next": [
-        "黃有毅"
-      ]
-    },
-    {
-      "name": "黃有毅",
-      "grade": 102,
-      "previous": "何子宸",
-      "next": [
-        "潘彥碩"
-      ]
-    },
-    {
-      "name": "鄭劼弦",
-      "grade": 104,
-      "previous": "潘彥碩",
-      "next": []
-    },
-    {
-      "name": "潘彥碩",
-      "grade": 103,
-      "previous": "黃有毅",
-      "next": [
-        "鄭劼弦"
-      ]
-    },
-    {
-      "name": "王傳凱",
-      "grade": 101,
-      "previous": "",
-      "next": [
-        "朱瑞琦"
-      ]
-    },
-    {
-      "name": "朱瑞琦",
-      "grade": 102,
-      "previous": "王傳凱",
-      "next": [
-        "戴育詳"
-      ]
-    },
-    {
-      "name": "李皓翔",
-      "grade": 104,
-      "previous": "戴育詳",
-      "next": []
-    },
-    {
-      "name": "戴育詳",
-      "grade": 103,
-      "previous": "朱瑞琦",
-      "next": [
-        "李皓翔"
-      ]
-    },
-    {
-      "name": "廖偉丞",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "林柏頲"
-      ]
-    },
-    {
-      "name": "林柏頲",
-      "grade": 101,
-      "previous": "廖偉丞",
-      "next": [
-        "陳薪堯"
-      ]
-    },
-    {
-      "name": "陳薪堯",
-      "grade": 102,
-      "previous": "林柏頲",
-      "next": [
-        "陳宣儒"
-      ]
-    },
-    {
-      "name": "林浩田",
-      "grade": 104,
-      "previous": "陳宣儒",
-      "next": []
-    },
-    {
-      "name": "陳宣儒",
-      "grade": 103,
-      "previous": "陳薪堯",
-      "next": [
-        "林浩田"
-      ]
-    },
-    {
-      "name": "沈祐禎",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "李嘉泰"
-      ]
-    },
-    {
-      "name": "李嘉泰",
-      "grade": 101,
-      "previous": "沈祐禎",
-      "next": [
-        "李佳陽"
-      ]
-    },
-    {
-      "name": "李佳陽",
-      "grade": 102,
-      "previous": "李嘉泰",
-      "next": [
-        "吳俞萱"
-      ]
-    },
-    {
-      "name": "馮玉賢",
-      "grade": 104,
-      "previous": "吳俞萱",
-      "next": []
-    },
-    {
-      "name": "吳俞萱",
-      "grade": 103,
-      "previous": "李佳陽",
-      "next": [
-        "馮玉賢"
-      ]
-    },
-    {
-      "name": "劉伯軒",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "鄭書奇"
-      ]
-    },
-    {
-      "name": "鄭書奇",
-      "grade": 101,
-      "previous": "劉伯軒",
-      "next": [
-        "洪晨閎"
-      ]
-    },
-    {
-      "name": "洪晨閎",
-      "grade": 102,
-      "previous": "鄭書奇",
-      "next": [
-        "盧奕誠"
-      ]
-    },
-    {
-      "name": "巫展軍",
-      "grade": 104,
-      "previous": "盧奕誠",
-      "next": []
-    },
-    {
-      "name": "盧奕誠",
-      "grade": 103,
-      "previous": "洪晨閎",
-      "next": [
-        "巫展軍"
-      ]
-    },
-    {
-      "name": "洪鈺棋",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "陳鎮鴻"
-      ]
-    },
-    {
-      "name": "陳鎮鴻",
-      "grade": 101,
-      "previous": "洪鈺棋",
-      "next": [
-        "蔡育武"
-      ]
-    },
-    {
-      "name": "蔡育武",
-      "grade": 102,
-      "previous": "陳鎮鴻",
-      "next": [
-        "陳昱叡"
-      ]
-    },
-    {
-      "name": "李冠煌",
-      "grade": 104,
-      "previous": "陳昱叡",
-      "next": []
-    },
-    {
-      "name": "陳昱叡",
-      "grade": 103,
-      "previous": "蔡育武",
-      "next": [
-        "李冠煌"
-      ]
-    },
-    {
-      "name": "唐千惠",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "吳俊良"
-      ]
-    },
-    {
-      "name": "吳俊良",
-      "grade": 101,
-      "previous": "唐千惠",
-      "next": [
-        "李秉儒"
-      ]
-    },
-    {
-      "name": "李秉儒",
-      "grade": 102,
-      "previous": "吳俊良",
-      "next": [
-        "劉冠鋆",
-        "顧瀞文"
-      ]
-    },
-    {
-      "name": "江郅錡",
-      "grade": 104,
-      "previous": "劉冠鋆",
-      "next": []
-    },
-    {
-      "name": "劉冠鋆",
-      "grade": 103,
-      "previous": "吳俊良",
-      "next": [
-        "江郅錡"
-      ]
-    },
-    {
-      "name": "孫健庭",
-      "grade": 101,
-      "previous": "",
-      "next": [
-        "張家齊"
-      ]
-    },
-    {
-      "name": "張家齊",
-      "grade": 102,
-      "previous": "孫健庭",
-      "next": [
-        "邱泰偉"
-      ]
-    },
-    {
-      "name": "鄭宇倫",
-      "grade": 104,
-      "previous": "邱泰偉",
-      "next": []
-    },
-    {
-      "name": "邱泰偉",
-      "grade": 103,
-      "previous": "張家齊",
-      "next": [
-        "鄭宇倫"
-      ]
-    },
-    {
-      "name": "江駿立",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "吳有為"
-      ]
-    },
-    {
-      "name": "吳有為",
-      "grade": 101,
-      "previous": "江駿立",
-      "next": [
-        "鍾彥杰"
-      ]
-    },
-    {
-      "name": "鍾彥杰",
-      "grade": 102,
-      "previous": "吳有為",
-      "next": [
-        "盧清炫"
-      ]
-    },
-    {
-      "name": "盧清炫",
-      "grade": 103,
-      "previous": "鍾彥杰",
-      "next": [
-        "林怡岑"
-      ]
-    },
-    {
-      "name": "林怡岑",
-      "grade": 104,
-      "previous": "盧清炫",
-      "next": []
-    },
-    {
-      "name": "連政杰",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "王彣"
-      ]
-    },
-    {
-      "name": "王彣",
-      "grade": 101,
-      "previous": "連政杰",
-      "next": [
-        "周俊志",
-        "馮善元"
-      ]
-    },
-    {
-      "name": "鄧明婕",
-      "grade": 104,
-      "previous": "馮善元",
-      "next": []
-    },
-    {
-      "name": "馮善元",
-      "grade": 103,
-      "previous": "王彣",
-      "next": [
-        "鄧明婕"
-      ]
-    },
-    {
-      "name": "周俊志",
-      "grade": 103,
-      "previous": "王彣",
-      "next": []
-    },
-    {
-      "name": "馮善元",
-      "grade": 103,
-      "previous": "周俊志",
-      "next": []
-    },
-    {
-      "name": "陳承遠",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "翁許瑋"
-      ]
-    },
-    {
-      "name": "翁許瑋",
-      "grade": 101,
-      "previous": "陳承遠",
-      "next": [
-        "吳詠嫻"
-      ]
-    },
-    {
-      "name": "吳詠嫻",
-      "grade": 102,
-      "previous": "翁許瑋",
-      "next": [
-        "翁翊珊",
-        "林宜興"
-      ]
-    },
-    {
-      "name": "林裕翔",
-      "grade": 104,
-      "previous": "林宜興",
-      "next": []
-    },
-    {
-      "name": "林宜興",
-      "grade": 103,
-      "previous": "吳泳嫻",
-      "next": [
-        "林裕翔"
-      ]
-    },
-    {
-      "name": "施奕安",
-      "grade": 104,
-      "previous": "翁翊珊",
-      "next": []
-    },
-    {
-      "name": "翁翊珊",
-      "grade": 103,
-      "previous": "吳詠嫻",
-      "next": [
-        "施奕安"
-      ]
-    },
-    {
-      "name": "孫渝涵",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "劉彥呈"
-      ]
-    },
-    {
-      "name": "劉彥呈",
-      "grade": 101,
-      "previous": "孫渝涵",
-      "next": [
-        "葉行遠"
-      ]
-    },
-    {
-      "name": "葉行遠",
-      "grade": 102,
-      "previous": "劉彥呈",
-      "next": [
-        "林廷俊"
-      ]
-    },
-    {
-      "name": "梁適蕊",
-      "grade": 104,
-      "previous": "林廷俊",
-      "next": []
-    },
-    {
-      "name": "林廷俊",
-      "grade": 103,
-      "previous": "葉行遠",
-      "next": [
-        "梁適蕊"
-      ]
-    },
-    {
-      "name": "魏宏宇",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "周柏翰"
-      ]
-    },
-    {
-      "name": "周柏翰",
-      "grade": 101,
-      "previous": "魏宏宇",
-      "next": [
-        "簡佳恩"
-      ]
-    },
-    {
-      "name": "簡佳恩",
-      "grade": 102,
-      "previous": "周柏翰",
-      "next": [
-        "葉繼聰"
-      ]
-    },
-    {
-      "name": "林祐楷",
-      "grade": 104,
-      "previous": "葉繼聰",
-      "next": []
-    },
-    {
-      "name": "葉繼聰",
-      "grade": 103,
-      "previous": "簡佳恩",
-      "next": [
-        "林祐楷"
-      ]
-    },
-    {
-      "name": "潘可涵",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "劉易軒"
-      ]
-    },
-    {
-      "name": "劉易軒",
-      "grade": 101,
-      "previous": "潘可涵",
-      "next": [
-        "鍾其融"
-      ]
-    },
-    {
-      "name": "鍾其融",
-      "grade": 102,
-      "previous": "劉易軒",
-      "next": [
-        "賴昱賢"
-      ]
-    },
-    {
-      "name": "楊家豪",
-      "grade": 104,
-      "previous": "賴昱賢",
-      "next": []
-    },
-    {
-      "name": "賴昱賢",
-      "grade": 103,
-      "previous": "鍾其融",
-      "next": [
-        "楊家豪"
-      ]
-    },
-    {
-      "name": "顧百芙",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "邱軒平"
-      ]
-    },
-    {
-      "name": "邱軒平",
-      "grade": 101,
-      "previous": "顧百芙",
-      "next": [
-        "陳忠謙"
-      ]
-    },
-    {
-      "name": "陳忠謙",
-      "grade": 102,
-      "previous": "邱軒平",
-      "next": [
-        "林彥誠"
-      ]
-    },
-    {
-      "name": "林軍翰",
-      "grade": 104,
-      "previous": "林彥誠",
-      "next": []
-    },
-    {
-      "name": "林彥誠",
-      "grade": 103,
-      "previous": "陳忠謙",
-      "next": [
-        "林軍翰"
-      ]
-    },
-    {
-      "name": "李宗翰",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "李蕭平"
-      ]
-    },
-    {
-      "name": "李蕭平",
-      "grade": 101,
-      "previous": "李宗翰",
-      "next": [
-        "伍錫志"
-      ]
-    },
-    {
-      "name": "伍錫志",
-      "grade": 102,
-      "previous": "李蕭平",
-      "next": [
-        "謝昊恩"
-      ]
-    },
-    {
-      "name": "劉冠廷",
-      "grade": 104,
-      "previous": "謝昊恩",
-      "next": []
-    },
-    {
-      "name": "謝昊恩",
-      "grade": 103,
-      "previous": "伍錫志",
-      "next": [
-        "劉冠廷"
-      ]
-    },
-    {
-      "name": "廖欣瑩",
-      "grade": 101,
-      "previous": "",
-      "next": [
-        "林奕汝"
-      ]
-    },
-    {
-      "name": "林奕汝",
-      "grade": 102,
-      "previous": "廖欣瑩",
-      "next": [
-        "張凱傑"
-      ]
-    },
-    {
-      "name": "林冠甫",
-      "grade": 104,
-      "previous": "張凱傑",
-      "next": []
-    },
-    {
-      "name": "張凱傑",
-      "grade": 103,
-      "previous": "林奕汝",
-      "next": [
-        "林冠甫"
-      ]
-    },
-    {
-      "name": "林育丞",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "林彥安"
-      ]
-    },
-    {
-      "name": "林彥安",
-      "grade": 101,
-      "previous": "林育丞",
-      "next": [
-        "翁孟宏"
-      ]
-    },
-    {
-      "name": "翁孟宏",
-      "grade": 102,
-      "previous": "林彥安",
-      "next": [
-        "梁景祥"
-      ]
-    },
-    {
-      "name": "梁景祥",
-      "grade": 103,
-      "previous": "翁孟宏",
-      "next": []
-    },
-    {
-      "name": "麥喬迪",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "羅元甫"
-      ]
-    },
-    {
-      "name": "羅元甫",
-      "grade": 101,
-      "previous": "麥喬迪",
-      "next": [
-        "李建緯"
-      ]
-    },
-    {
-      "name": "李建緯",
-      "grade": 102,
-      "previous": "羅元甫",
-      "next": [
-        "楊仲齊"
-      ]
-    },
-    {
-      "name": "鍾昭彥",
-      "grade": 104,
-      "previous": "楊仲齊",
-      "next": []
-    },
-    {
-      "name": "楊仲齊",
-      "grade": 103,
-      "previous": "李建緯",
-      "next": [
-        "鍾昭彥"
-      ]
-    },
-    {
-      "name": "朱翹珮",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "吳乘宇"
-      ]
-    },
-    {
-      "name": "吳乘宇",
-      "grade": 101,
-      "previous": "朱翹珮",
-      "next": [
-        "張宏印"
-      ]
-    },
-    {
-      "name": "張宏印",
-      "grade": 102,
-      "previous": "吳乘宇",
-      "next": [
-        "邱冠鈞"
-      ]
-    },
-    {
-      "name": "簡舒平",
-      "grade": 104,
-      "previous": "邱冠鈞",
-      "next": []
-    },
-    {
-      "name": "邱冠鈞",
-      "grade": 103,
-      "previous": "張宏印",
-      "next": [
-        "簡舒平"
-      ]
-    },
-    {
-      "name": "張雲婷",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "蔡文豪"
-      ]
-    },
-    {
-      "name": "蔡文豪",
-      "grade": 101,
-      "previous": "張雲婷",
-      "next": [
-        "陳珞安"
-      ]
-    },
-    {
-      "name": "陳珞安",
-      "grade": 102,
-      "previous": "蔡文豪",
-      "next": [
-        "謝佳運"
-      ]
-    },
-    {
-      "name": "簡銘瑜",
-      "grade": 104,
-      "previous": "謝佳運",
-      "next": []
-    },
-    {
-      "name": "謝佳運",
-      "grade": 103,
-      "previous": "陳珞安",
-      "next": [
-        "簡銘瑜"
-      ]
-    },
-    {
-      "name": "陳敬中",
-      "grade": 100,
-      "previous": "",
-      "next": [
-        "許馥欣"
-      ]
-    },
-    {
-      "name": "許馥欣",
-      "grade": 101,
-      "previous": "陳敬中",
-      "next": [
-        "蘇柏軒",
-        "吳崧瑋"
-      ]
-    },
-    {
-      "name": "蘇柏軒",
-      "grade": 102,
-      "previous": "許馥欣",
-      "next": [
-        "張喬茵"
-      ]
-    },
-    {
-      "name": "鄭亦彣",
-      "grade": 104,
-      "previous": "張喬茵",
-      "next": []
-    },
-    {
-      "name": "張喬茵",
-      "grade": 103,
-      "previous": "蘇柏軒",
-      "next": [
-        "鄭亦彣"
-      ]
-    },
-    {
-      "name": "張庭瑄",
-      "grade": 104,
-      "previous": "顧瀞文",
-      "next": []
-    },
-    {
-      "name": "顧瀞文",
-      "grade": "103",
-      "previous": "李秉儒",
-      "next": [
-        "張庭瑄"
-      ]
-    },
-    {
-      "name": "廖允禎",
-      "grade": "102",
-      "previous": "",
-      "next": [
-        "林浩誼"
-      ]
-    },
-    {
-      "name": "邱奕凱",
-      "grade": 104,
-      "previous": "林浩誼",
-      "next": []
-    },
-    {
-      "name": "林浩誼",
-      "grade": "103",
-      "previous": "廖允禎",
-      "next": [
-        "邱奕凱"
-      ]
-    }
-  ]
+    "data": [
+        {
+            "name": "田豐",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "林詠順"
+            ]
+        },
+        {
+            "name": "林詠順",
+            "grade": 101,
+            "previous": "田豐",
+            "next": []
+        },
+        {
+            "name": "吳崧瑋",
+            "grade": 102,
+            "previous": "許馥欣",
+            "next": [
+                "曾柏逸",
+                "謝侑霖"
+            ]
+        },
+        {
+            "name": "謝侑霖",
+            "grade": 103,
+            "previous": "吳崧瑋",
+            "next": [
+                "陳旻隆"
+            ]
+        },
+        {
+            "name": "李哲宇",
+            "grade": 104,
+            "previous": "曾柏逸",
+            "next": []
+        },
+        {
+            "name": "陳旻隆",
+            "grade": 104,
+            "previous": "謝侑霖",
+            "next": []
+        },
+        {
+            "name": "曾柏逸",
+            "grade": 103,
+            "previous": "吳崧瑋",
+            "next": [
+                "李哲宇"
+            ]
+        },
+        {
+            "name": "陳文暐",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "曾文鈺"
+            ]
+        },
+        {
+            "name": "曾文鈺",
+            "grade": 101,
+            "previous": "陳文暐",
+            "next": [
+                "李政德"
+            ]
+        },
+        {
+            "name": "李政德",
+            "grade": 102,
+            "previous": "曾文鈺",
+            "next": [
+                "鍾天佑"
+            ]
+        },
+        {
+            "name": "陳姿穎",
+            "grade": 104,
+            "previous": "鍾天佑",
+            "next": []
+        },
+        {
+            "name": "鍾天佑",
+            "grade": 103,
+            "previous": "李政德",
+            "next": [
+                "陳姿穎"
+            ]
+        },
+        {
+            "name": "蔡逸彬",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "譚馳雍"
+            ]
+        },
+        {
+            "name": "譚馳雍",
+            "grade": 101,
+            "previous": "蔡逸彬",
+            "next": [
+                "陳綺"
+            ]
+        },
+        {
+            "name": "陳綺",
+            "grade": 102,
+            "previous": "譚馳雍",
+            "next": []
+        },
+        {
+            "name": "林庭瑀",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "吳幸怡"
+            ]
+        },
+        {
+            "name": "吳幸怡",
+            "grade": 101,
+            "previous": "林庭瑀",
+            "next": [
+                "李子婕"
+            ]
+        },
+        {
+            "name": "李子婕",
+            "grade": 102,
+            "previous": "吳幸怡",
+            "next": [
+                "李芷婷"
+            ]
+        },
+        {
+            "name": "呂明修",
+            "grade": 104,
+            "previous": "李芷婷",
+            "next": []
+        },
+        {
+            "name": "李芷婷",
+            "grade": 103,
+            "previous": "李子婕",
+            "next": [
+                "呂明修"
+            ]
+        },
+        {
+            "name": "葉詠富",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "柳岑歡"
+            ]
+        },
+        {
+            "name": "柳岑歡",
+            "grade": 101,
+            "previous": "葉詠富",
+            "next": [
+                "林宗楷"
+            ]
+        },
+        {
+            "name": "林宗楷",
+            "grade": 102,
+            "previous": "柳岑歡",
+            "next": [
+                "許牧耘"
+            ]
+        },
+        {
+            "name": "萬育瑄",
+            "grade": 104,
+            "previous": "許牧耘",
+            "next": []
+        },
+        {
+            "name": "許牧耘",
+            "grade": 103,
+            "previous": "林宗楷",
+            "next": [
+                "萬育瑄"
+            ]
+        },
+        {
+            "name": "溫志豪",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "翁相陽"
+            ]
+        },
+        {
+            "name": "翁相陽",
+            "grade": 102,
+            "previous": "溫志豪",
+            "next": [
+                "蔡承翰"
+            ]
+        },
+        {
+            "name": "簡秉宏",
+            "grade": 104,
+            "previous": "蔡承翰",
+            "next": []
+        },
+        {
+            "name": "蔡承翰",
+            "grade": 103,
+            "previous": "翁相陽",
+            "next": [
+                "簡秉宏"
+            ]
+        },
+        {
+            "name": "陳瑞河",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "袁翰林"
+            ]
+        },
+        {
+            "name": "袁翰林",
+            "grade": 102,
+            "previous": "陳瑞河",
+            "next": [
+                "趙城綱"
+            ]
+        },
+        {
+            "name": "孫于婷",
+            "grade": 104,
+            "previous": "趙城綱",
+            "next": []
+        },
+        {
+            "name": "趙城綱",
+            "grade": 103,
+            "previous": "袁翰林",
+            "next": [
+                "孫于婷"
+            ]
+        },
+        {
+            "name": "林韋志",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "龔如心"
+            ]
+        },
+        {
+            "name": "龔如心",
+            "grade": 101,
+            "previous": "林韋志",
+            "next": [
+                "何怡珣"
+            ]
+        },
+        {
+            "name": "何怡珣",
+            "grade": 102,
+            "previous": "龔如心",
+            "next": [
+                "洪薏雯"
+            ]
+        },
+        {
+            "name": "張昭德",
+            "grade": 104,
+            "previous": "洪薏雯",
+            "next": []
+        },
+        {
+            "name": "洪薏雯",
+            "grade": 103,
+            "previous": "何怡珣",
+            "next": [
+                "張昭德"
+            ]
+        },
+        {
+            "name": "康耀中",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "沈妤芳"
+            ]
+        },
+        {
+            "name": "沈妤芳",
+            "grade": 101,
+            "previous": "康耀中",
+            "next": [
+                "呂冠德"
+            ]
+        },
+        {
+            "name": "呂冠德",
+            "grade": 102,
+            "previous": "沈妤芳",
+            "next": [
+                "柳怡嘉"
+            ]
+        },
+        {
+            "name": "陳佳辰",
+            "grade": 104,
+            "previous": "柳怡嘉",
+            "next": []
+        },
+        {
+            "name": "柳怡嘉",
+            "grade": 103,
+            "previous": "呂冠德",
+            "next": [
+                "陳佳辰"
+            ]
+        },
+        {
+            "name": "蔡秉芸",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "呂健瑜"
+            ]
+        },
+        {
+            "name": "呂健瑜",
+            "grade": 101,
+            "previous": "蔡秉芸",
+            "next": [
+                "林溢偉"
+            ]
+        },
+        {
+            "name": "林溢偉",
+            "grade": 102,
+            "previous": "呂健瑜",
+            "next": [
+                "盧民杰"
+            ]
+        },
+        {
+            "name": "謝權信",
+            "grade": 104,
+            "previous": "盧民杰",
+            "next": []
+        },
+        {
+            "name": "盧民杰",
+            "grade": 103,
+            "previous": "林溢偉",
+            "next": [
+                "謝權信"
+            ]
+        },
+        {
+            "name": "許嘉雯",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "蔡銘家"
+            ]
+        },
+        {
+            "name": "蔡銘家",
+            "grade": 101,
+            "previous": "許嘉雯",
+            "next": [
+                "陳子鈞"
+            ]
+        },
+        {
+            "name": "陳子鈞",
+            "grade": 102,
+            "previous": "蔡銘家",
+            "next": [
+                "詹銘仁"
+            ]
+        },
+        {
+            "name": "戴唯承",
+            "grade": 104,
+            "previous": "詹銘仁",
+            "next": []
+        },
+        {
+            "name": "詹銘仁",
+            "grade": 103,
+            "previous": "陳子鈞",
+            "next": [
+                "戴唯承"
+            ]
+        },
+        {
+            "name": "邱煜修",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "彭修瓊"
+            ]
+        },
+        {
+            "name": "彭修瓊",
+            "grade": 101,
+            "previous": "邱煜修",
+            "next": [
+                "蕭偉哲"
+            ]
+        },
+        {
+            "name": "蕭偉哲",
+            "grade": 102,
+            "previous": "彭修瓊",
+            "next": [
+                "許郁翎"
+            ]
+        },
+        {
+            "name": "張祐銓",
+            "grade": 104,
+            "previous": "許郁翎",
+            "next": []
+        },
+        {
+            "name": "許郁翎",
+            "grade": 103,
+            "previous": "蕭偉哲",
+            "next": [
+                "張祐銓"
+            ]
+        },
+        {
+            "name": "鄭宗倫",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "吳柏諺"
+            ]
+        },
+        {
+            "name": "吳柏諺",
+            "grade": 101,
+            "previous": "鄭宗倫",
+            "next": [
+                "吳哲賢"
+            ]
+        },
+        {
+            "name": "吳哲賢",
+            "grade": 102,
+            "previous": "吳柏諺",
+            "next": [
+                "劉兆軒"
+            ]
+        },
+        {
+            "name": "羅樂庭",
+            "grade": 104,
+            "previous": "劉兆軒",
+            "next": []
+        },
+        {
+            "name": "劉兆軒",
+            "grade": 103,
+            "previous": "吳哲賢",
+            "next": [
+                "羅樂庭"
+            ]
+        },
+        {
+            "name": "洪碁",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "陳昱安"
+            ]
+        },
+        {
+            "name": "陳昱安",
+            "grade": 101,
+            "previous": "洪碁",
+            "next": [
+                "鄭文杰"
+            ]
+        },
+        {
+            "name": "鄭文杰",
+            "grade": 102,
+            "previous": "陳昱安",
+            "next": [
+                "陳佑銘"
+            ]
+        },
+        {
+            "name": "陳冠宇",
+            "grade": 104,
+            "previous": "陳佑銘",
+            "next": []
+        },
+        {
+            "name": "陳佑銘",
+            "grade": 103,
+            "previous": "鄭文杰",
+            "next": [
+                "陳冠宇"
+            ]
+        },
+        {
+            "name": "高映慈",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "葉宣余"
+            ]
+        },
+        {
+            "name": "葉宣余",
+            "grade": 101,
+            "previous": "高映慈",
+            "next": [
+                "吳承翰"
+            ]
+        },
+        {
+            "name": "吳承翰",
+            "grade": 102,
+            "previous": "葉宣余",
+            "next": [
+                "周凱威"
+            ]
+        },
+        {
+            "name": "劉佩宜",
+            "grade": 104,
+            "previous": "周凱威",
+            "next": []
+        },
+        {
+            "name": "周凱威",
+            "grade": 103,
+            "previous": "吳承翰",
+            "next": [
+                "劉佩宜"
+            ]
+        },
+        {
+            "name": "李芷宣",
+            "grade": 101,
+            "previous": "",
+            "next": [
+                "林皓鈺"
+            ]
+        },
+        {
+            "name": "林皓鈺",
+            "grade": 102,
+            "previous": "李芷宣",
+            "next": [
+                "江翎瑋"
+            ]
+        },
+        {
+            "name": "林君璟",
+            "grade": 104,
+            "previous": "江翎瑋",
+            "next": []
+        },
+        {
+            "name": "江翎瑋",
+            "grade": 103,
+            "previous": "林皓鈺",
+            "next": [
+                "林君璟"
+            ]
+        },
+        {
+            "name": "藍玉朋",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "林子杰"
+            ]
+        },
+        {
+            "name": "林子杰",
+            "grade": 101,
+            "previous": "藍玉朋",
+            "next": [
+                "賴玟羽"
+            ]
+        },
+        {
+            "name": "賴玟羽",
+            "grade": 102,
+            "previous": "林子杰",
+            "next": [
+                "陳彥銨"
+            ]
+        },
+        {
+            "name": "朱以誠",
+            "grade": 104,
+            "previous": "陳彥銨",
+            "next": []
+        },
+        {
+            "name": "陳彥銨",
+            "grade": 103,
+            "previous": "賴玟羽",
+            "next": [
+                "朱以誠"
+            ]
+        },
+        {
+            "name": "陳謙",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "李建源"
+            ]
+        },
+        {
+            "name": "李建源",
+            "grade": 101,
+            "previous": "陳謙",
+            "next": [
+                "許仁豪"
+            ]
+        },
+        {
+            "name": "許仁豪",
+            "grade": 102,
+            "previous": "李建源",
+            "next": [
+                "林俊宇"
+            ]
+        },
+        {
+            "name": "謝明勳",
+            "grade": 104,
+            "previous": "林俊宇",
+            "next": []
+        },
+        {
+            "name": "林俊宇",
+            "grade": 103,
+            "previous": "許仁豪",
+            "next": [
+                "謝明勳"
+            ]
+        },
+        {
+            "name": "莊澤玉",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "劉為尹"
+            ]
+        },
+        {
+            "name": "劉為尹",
+            "grade": 101,
+            "previous": "莊澤玉",
+            "next": [
+                "黃永仁"
+            ]
+        },
+        {
+            "name": "黃永仁",
+            "grade": 102,
+            "previous": "劉為尹",
+            "next": [
+                "羅國豪"
+            ]
+        },
+        {
+            "name": "吳東諺",
+            "grade": 104,
+            "previous": "羅國豪",
+            "next": []
+        },
+        {
+            "name": "羅國豪",
+            "grade": 103,
+            "previous": "黃永仁",
+            "next": [
+                "吳東諺"
+            ]
+        },
+        {
+            "name": "劉宇威",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "王子睿"
+            ]
+        },
+        {
+            "name": "王子睿",
+            "grade": 101,
+            "previous": "劉宇威",
+            "next": [
+                "林祺恩"
+            ]
+        },
+        {
+            "name": "林祺恩",
+            "grade": 102,
+            "previous": "王子睿",
+            "next": [
+                "江明謙"
+            ]
+        },
+        {
+            "name": "高竹均",
+            "grade": 104,
+            "previous": "江明謙",
+            "next": []
+        },
+        {
+            "name": "江明謙",
+            "grade": 103,
+            "previous": "林祺恩",
+            "next": [
+                "高竹均"
+            ]
+        },
+        {
+            "name": "林子皓",
+            "grade": 101,
+            "previous": "",
+            "next": [
+                "趙怡華"
+            ]
+        },
+        {
+            "name": "趙怡華",
+            "grade": 102,
+            "previous": "林子皓",
+            "next": [
+                "戴胤",
+                "陳思宇"
+            ]
+        },
+        {
+            "name": "徐婉瑄",
+            "grade": 104,
+            "previous": "陳思宇",
+            "next": []
+        },
+        {
+            "name": "陳思宇",
+            "grade": 103,
+            "previous": "趙怡華",
+            "next": [
+                "徐婉瑄"
+            ]
+        },
+        {
+            "name": "邱慶弘",
+            "grade": 104,
+            "previous": "戴胤",
+            "next": []
+        },
+        {
+            "name": "戴胤",
+            "grade": 103,
+            "previous": "趙怡華",
+            "next": [
+                "邱慶弘"
+            ]
+        },
+        {
+            "name": "謝昕哲",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "廖柏鈞"
+            ]
+        },
+        {
+            "name": "廖柏鈞",
+            "grade": 101,
+            "previous": "謝昕哲",
+            "next": [
+                "王韻婷"
+            ]
+        },
+        {
+            "name": "王韻婷",
+            "grade": 102,
+            "previous": "廖柏鈞",
+            "next": [
+                "徐倩濡"
+            ]
+        },
+        {
+            "name": "戴靜雯",
+            "grade": 104,
+            "previous": "徐倩濡",
+            "next": []
+        },
+        {
+            "name": "徐倩濡",
+            "grade": 103,
+            "previous": "王韻婷",
+            "next": [
+                "戴靜雯"
+            ]
+        },
+        {
+            "name": "陳宇軒",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "張逢文"
+            ]
+        },
+        {
+            "name": "張逢文",
+            "grade": 101,
+            "previous": "陳宇軒",
+            "next": [
+                "王亭堯"
+            ]
+        },
+        {
+            "name": "王亭堯",
+            "grade": 102,
+            "previous": "張逢文",
+            "next": [
+                "陳頡輿"
+            ]
+        },
+        {
+            "name": "李泓緯",
+            "grade": 104,
+            "previous": "陳頡輿",
+            "next": []
+        },
+        {
+            "name": "陳頡輿",
+            "grade": 103,
+            "previous": "王亭堯",
+            "next": [
+                "李泓緯"
+            ]
+        },
+        {
+            "name": "梁書睿",
+            "grade": 101,
+            "previous": "",
+            "next": [
+                "王鈺鎔"
+            ]
+        },
+        {
+            "name": "王鈺鎔",
+            "grade": 102,
+            "previous": "梁書睿",
+            "next": [
+                "侯皓中"
+            ]
+        },
+        {
+            "name": "劉威誠",
+            "grade": 104,
+            "previous": "侯皓中",
+            "next": []
+        },
+        {
+            "name": "侯皓中",
+            "grade": 103,
+            "previous": "王鈺鎔",
+            "next": [
+                "劉威誠"
+            ]
+        },
+        {
+            "name": "施丞優",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "宋題均"
+            ]
+        },
+        {
+            "name": "宋題均",
+            "grade": 101,
+            "previous": "施丞優",
+            "next": [
+                "曾煒翔"
+            ]
+        },
+        {
+            "name": "曾煒翔",
+            "grade": 102,
+            "previous": "宋題均",
+            "next": [
+                "陳冠廷"
+            ]
+        },
+        {
+            "name": "康聖玄",
+            "grade": 104,
+            "previous": "陳冠廷",
+            "next": []
+        },
+        {
+            "name": "陳冠廷",
+            "grade": 103,
+            "previous": "曾煒翔",
+            "next": [
+                "康聖玄"
+            ]
+        },
+        {
+            "name": "陳愷宏",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "薛志成"
+            ]
+        },
+        {
+            "name": "薛志成",
+            "grade": 101,
+            "previous": "陳愷宏",
+            "next": [
+                "馮信偉"
+            ]
+        },
+        {
+            "name": "馮信偉",
+            "grade": 102,
+            "previous": "薛志成",
+            "next": [
+                "陳啟郡"
+            ]
+        },
+        {
+            "name": "蔡宗紘",
+            "grade": 104,
+            "previous": "陳啟郡",
+            "next": []
+        },
+        {
+            "name": "陳啟郡",
+            "grade": 103,
+            "previous": "馮信偉",
+            "next": [
+                "蔡宗紘"
+            ]
+        },
+        {
+            "name": "張郁昇",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "李宗儒"
+            ]
+        },
+        {
+            "name": "李宗儒",
+            "grade": 101,
+            "previous": "張郁昇",
+            "next": [
+                "錢慶彰"
+            ]
+        },
+        {
+            "name": "錢慶彰",
+            "grade": 102,
+            "previous": "李宗儒",
+            "next": [
+                "朱晨瑋"
+            ]
+        },
+        {
+            "name": "楊智平",
+            "grade": 104,
+            "previous": "朱晨瑋",
+            "next": []
+        },
+        {
+            "name": "朱晨瑋",
+            "grade": 103,
+            "previous": "錢慶彰",
+            "next": [
+                "楊智平"
+            ]
+        },
+        {
+            "name": "賴其昀",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "趙守恩"
+            ]
+        },
+        {
+            "name": "趙守恩",
+            "grade": 101,
+            "previous": "賴其昀",
+            "next": [
+                "吳澄練"
+            ]
+        },
+        {
+            "name": "吳澄練",
+            "grade": 102,
+            "previous": "趙守恩",
+            "next": [
+                "陳冠儒"
+            ]
+        },
+        {
+            "name": "郭旻昌",
+            "grade": 104,
+            "previous": "陳冠儒",
+            "next": []
+        },
+        {
+            "name": "陳冠儒",
+            "grade": 103,
+            "previous": "吳澄練",
+            "next": [
+                "郭旻昌"
+            ]
+        },
+        {
+            "name": "徐一民",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "程麒任"
+            ]
+        },
+        {
+            "name": "程麒任",
+            "grade": 101,
+            "previous": "徐一民",
+            "next": [
+                "陳正雄"
+            ]
+        },
+        {
+            "name": "陳正雄",
+            "grade": 102,
+            "previous": "程麒任",
+            "next": [
+                "蔡明諺"
+            ]
+        },
+        {
+            "name": "林苡樂",
+            "grade": 104,
+            "previous": "蔡明諺",
+            "next": []
+        },
+        {
+            "name": "蔡明諺",
+            "grade": 103,
+            "previous": "陳正雄",
+            "next": [
+                "林苡樂"
+            ]
+        },
+        {
+            "name": "孫宏奇",
+            "grade": 101,
+            "previous": "",
+            "next": [
+                "蘇蕙欣"
+            ]
+        },
+        {
+            "name": "蘇蕙欣",
+            "grade": 102,
+            "previous": "孫宏奇",
+            "next": [
+                "欒又禎"
+            ]
+        },
+        {
+            "name": "欒又禎",
+            "grade": 103,
+            "previous": "蘇蕙欣",
+            "next": [
+                "闕壯和"
+            ]
+        },
+        {
+            "name": "闕壯和",
+            "grade": 104,
+            "previous": "欒又禎",
+            "next": []
+        },
+        {
+            "name": "歐陽濬",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "陳俊嘉"
+            ]
+        },
+        {
+            "name": "陳俊嘉",
+            "grade": 101,
+            "previous": "歐陽濬",
+            "next": [
+                "陳 毅"
+            ]
+        },
+        {
+            "name": "陳 毅",
+            "grade": 102,
+            "previous": "陳俊嘉",
+            "next": [
+                "莊詠鈞"
+            ]
+        },
+        {
+            "name": "黃韋中",
+            "grade": 104,
+            "previous": "莊詠鈞",
+            "next": []
+        },
+        {
+            "name": "莊詠鈞",
+            "grade": 103,
+            "previous": "陳 毅",
+            "next": [
+                "黃韋中"
+            ]
+        },
+        {
+            "name": "呂昊叡",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "郭寶祥"
+            ]
+        },
+        {
+            "name": "郭寶祥",
+            "grade": 101,
+            "previous": "呂昊叡",
+            "next": [
+                "高聖翔"
+            ]
+        },
+        {
+            "name": "高聖翔",
+            "grade": 102,
+            "previous": "郭寶祥",
+            "next": [
+                "黃奕棠"
+            ]
+        },
+        {
+            "name": "林孟毅",
+            "grade": 104,
+            "previous": "黃奕棠",
+            "next": []
+        },
+        {
+            "name": "黃奕棠",
+            "grade": 103,
+            "previous": "高聖翔",
+            "next": [
+                "林孟毅"
+            ]
+        },
+        {
+            "name": "余少均",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "謝柏維"
+            ]
+        },
+        {
+            "name": "謝柏維",
+            "grade": 101,
+            "previous": "余少均",
+            "next": [
+                "張鈞堯"
+            ]
+        },
+        {
+            "name": "張鈞堯",
+            "grade": 102,
+            "previous": "謝柏維",
+            "next": [
+                "甘英煥"
+            ]
+        },
+        {
+            "name": "黃睦鈞",
+            "grade": 104,
+            "previous": "甘英煥",
+            "next": []
+        },
+        {
+            "name": "甘英煥",
+            "grade": 103,
+            "previous": "張鈞堯",
+            "next": [
+                "黃睦鈞"
+            ]
+        },
+        {
+            "name": "賴冠瑋",
+            "grade": 101,
+            "previous": "",
+            "next": [
+                "黃詩安"
+            ]
+        },
+        {
+            "name": "黃詩安",
+            "grade": 102,
+            "previous": "賴冠瑋",
+            "next": [
+                "李承儒"
+            ]
+        },
+        {
+            "name": "李承儒",
+            "grade": 103,
+            "previous": "黃詩安",
+            "next": [
+                "黃靜嚴"
+            ]
+        },
+        {
+            "name": "黃靜嚴",
+            "grade": 104,
+            "previous": "李承儒",
+            "next": [
+                "李承儒"
+            ]
+        },
+        {
+            "name": "張連環",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "鄭宇倫"
+            ]
+        },
+        {
+            "name": "鄭宇倫",
+            "grade": 101,
+            "previous": "張連環",
+            "next": [
+                "文皓德"
+            ]
+        },
+        {
+            "name": "文皓德",
+            "grade": 102,
+            "previous": "鄭宇倫",
+            "next": [
+                "馮偉倫"
+            ]
+        },
+        {
+            "name": "詹婷",
+            "grade": 104,
+            "previous": "馮偉倫",
+            "next": []
+        },
+        {
+            "name": "馮偉倫",
+            "grade": 103,
+            "previous": "文皓德",
+            "next": [
+                "詹婷"
+            ]
+        },
+        {
+            "name": "簡玉宣",
+            "grade": 101,
+            "previous": "",
+            "next": [
+                "鄭婷"
+            ]
+        },
+        {
+            "name": "鄭婷",
+            "grade": 102,
+            "previous": "簡玉宣",
+            "next": [
+                "程譯"
+            ]
+        },
+        {
+            "name": "王子恒",
+            "grade": 104,
+            "previous": "程譯",
+            "next": []
+        },
+        {
+            "name": "程譯",
+            "grade": 103,
+            "previous": "鄭婷",
+            "next": [
+                "王子恒"
+            ]
+        },
+        {
+            "name": "劉哲豪",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "吳柏汎"
+            ]
+        },
+        {
+            "name": "吳柏汎",
+            "grade": 101,
+            "previous": "劉哲豪",
+            "next": [
+                "張繼仁"
+            ]
+        },
+        {
+            "name": "張繼仁",
+            "grade": 102,
+            "previous": "吳柏汎",
+            "next": [
+                "梁益銓"
+            ]
+        },
+        {
+            "name": "王重尹",
+            "grade": 104,
+            "previous": "梁益銓",
+            "next": []
+        },
+        {
+            "name": "梁益銓",
+            "grade": 103,
+            "previous": "張繼仁",
+            "next": [
+                "王重尹"
+            ]
+        },
+        {
+            "name": "鍾佳儒",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "洪維柏"
+            ]
+        },
+        {
+            "name": "洪維柏",
+            "grade": 101,
+            "previous": "鍾佳儒",
+            "next": [
+                "許育榮"
+            ]
+        },
+        {
+            "name": "許育榮",
+            "grade": 102,
+            "previous": "洪維柏",
+            "next": [
+                "張天陽"
+            ]
+        },
+        {
+            "name": "黃意翔",
+            "grade": 104,
+            "previous": "張天陽",
+            "next": []
+        },
+        {
+            "name": "張天陽",
+            "grade": 103,
+            "previous": "許育榮",
+            "next": [
+                "黃意翔"
+            ]
+        },
+        {
+            "name": "邱茂政",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "李閎嚴"
+            ]
+        },
+        {
+            "name": "李閎嚴",
+            "grade": 101,
+            "previous": "邱茂政",
+            "next": [
+                "徐瑋辰"
+            ]
+        },
+        {
+            "name": "徐瑋辰",
+            "grade": 102,
+            "previous": "李閎嚴",
+            "next": [
+                "林亭家",
+                "吳家榮"
+            ]
+        },
+        {
+            "name": "吳家榮",
+            "grade": 103,
+            "previous": "徐瑋辰",
+            "next": [
+                "蘇祐陞"
+            ]
+        },
+        {
+            "name": "蘇祐陞",
+            "grade": 104,
+            "previous": "吳家榮",
+            "next": []
+        },
+        {
+            "name": "張立欣",
+            "grade": 104,
+            "previous": "林亭家",
+            "next": []
+        },
+        {
+            "name": "林亭家",
+            "grade": 103,
+            "previous": "徐瑋辰",
+            "next": [
+                "張立欣"
+            ]
+        },
+        {
+            "name": "林愷宏",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "曾崇軒"
+            ]
+        },
+        {
+            "name": "曾崇軒",
+            "grade": 101,
+            "previous": "林愷宏",
+            "next": [
+                "陳柏瑞"
+            ]
+        },
+        {
+            "name": "陳柏瑞",
+            "grade": 102,
+            "previous": "曾崇軒",
+            "next": [
+                "黃翌軒"
+            ]
+        },
+        {
+            "name": "蔡曜謙",
+            "grade": 104,
+            "previous": "黃翌軒",
+            "next": []
+        },
+        {
+            "name": "黃翌軒",
+            "grade": 103,
+            "previous": "陳柏瑞",
+            "next": [
+                "蔡曜謙"
+            ]
+        },
+        {
+            "name": "呂進偉",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "許瑞顯"
+            ]
+        },
+        {
+            "name": "許瑞顯",
+            "grade": 101,
+            "previous": "呂進偉",
+            "next": [
+                "邱奕豪"
+            ]
+        },
+        {
+            "name": "邱奕豪",
+            "grade": 103,
+            "previous": "許瑞顯",
+            "next": [
+                "張雅淳"
+            ]
+        },
+        {
+            "name": "張雅淳",
+            "grade": 104,
+            "previous": "邱奕豪",
+            "next": []
+        },
+        {
+            "name": "應劭玄",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "李佳穎"
+            ]
+        },
+        {
+            "name": "李佳穎",
+            "grade": 101,
+            "previous": "應劭玄",
+            "next": [
+                "涂幃翔"
+            ]
+        },
+        {
+            "name": "涂幃翔",
+            "grade": 102,
+            "previous": "李佳穎",
+            "next": [
+                "蕭富辰"
+            ]
+        },
+        {
+            "name": "黃聖鈞",
+            "grade": 104,
+            "previous": "蕭富辰",
+            "next": []
+        },
+        {
+            "name": "蕭富辰",
+            "grade": 103,
+            "previous": "涂幃翔",
+            "next": [
+                "黃聖鈞"
+            ]
+        },
+        {
+            "name": "呂皓瑋",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "范博為"
+            ]
+        },
+        {
+            "name": "范博為",
+            "grade": 101,
+            "previous": "呂皓瑋",
+            "next": [
+                "林靖智"
+            ]
+        },
+        {
+            "name": "林靖智",
+            "grade": 102,
+            "previous": "范博為",
+            "next": [
+                "陳佑昇",
+                "李昱承"
+            ]
+        },
+        {
+            "name": "紀沅甫",
+            "grade": 104,
+            "previous": "陳佑昇",
+            "next": []
+        },
+        {
+            "name": "陳佑昇",
+            "grade": 103,
+            "previous": "林靖智",
+            "next": [
+                "紀沅甫"
+            ]
+        },
+        {
+            "name": "黃郁融",
+            "grade": 104,
+            "previous": "李昱承",
+            "next": []
+        },
+        {
+            "name": "李昱承",
+            "grade": 103,
+            "previous": "林靖智",
+            "next": [
+                "黃郁融"
+            ]
+        },
+        {
+            "name": "林宜萱",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "李庭慶"
+            ]
+        },
+        {
+            "name": "李庭慶",
+            "grade": 101,
+            "previous": "林宜萱",
+            "next": [
+                "藍郁翔"
+            ]
+        },
+        {
+            "name": "藍郁翔",
+            "grade": 102,
+            "previous": "李庭慶",
+            "next": [
+                "姜遠宜"
+            ]
+        },
+        {
+            "name": "曾宇嫻",
+            "grade": 104,
+            "previous": "姜遠宜",
+            "next": []
+        },
+        {
+            "name": "姜遠宜",
+            "grade": 103,
+            "previous": "藍郁翔",
+            "next": [
+                "曾宇嫻"
+            ]
+        },
+        {
+            "name": "黃雅琳",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "李宜霖"
+            ]
+        },
+        {
+            "name": "李宜霖",
+            "grade": 101,
+            "previous": "黃雅琳",
+            "next": [
+                "邱建彰"
+            ]
+        },
+        {
+            "name": "邱建彰",
+            "grade": 102,
+            "previous": "李宜霖",
+            "next": [
+                "黃詠勝"
+            ]
+        },
+        {
+            "name": "沈子翔",
+            "grade": 104,
+            "previous": "黃詠勝",
+            "next": []
+        },
+        {
+            "name": "黃詠勝",
+            "grade": 103,
+            "previous": "邱建彰",
+            "next": [
+                "沈子翔"
+            ]
+        },
+        {
+            "name": "張 勻",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "陳柏霖"
+            ]
+        },
+        {
+            "name": "陳柏霖",
+            "grade": 101,
+            "previous": "張 勻",
+            "next": [
+                "董奕賢"
+            ]
+        },
+        {
+            "name": "董奕賢",
+            "grade": 102,
+            "previous": "陳柏霖",
+            "next": [
+                "李沛頡"
+            ]
+        },
+        {
+            "name": "詹承翰",
+            "grade": 104,
+            "previous": "李沛頡",
+            "next": []
+        },
+        {
+            "name": "李沛頡",
+            "grade": 103,
+            "previous": "董奕賢",
+            "next": [
+                "詹承翰"
+            ]
+        },
+        {
+            "name": "葉子卿",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "林格屹"
+            ]
+        },
+        {
+            "name": "林格屹",
+            "grade": 102,
+            "previous": "葉子卿",
+            "next": [
+                "崔峰賓"
+            ]
+        },
+        {
+            "name": "陳奕儒",
+            "grade": 104,
+            "previous": "崔峰賓",
+            "next": []
+        },
+        {
+            "name": "崔峰賓",
+            "grade": 103,
+            "previous": "林格屹",
+            "next": [
+                "陳奕儒"
+            ]
+        },
+        {
+            "name": "呂庭光",
+            "grade": 101,
+            "previous": "",
+            "next": [
+                "林勁甫"
+            ]
+        },
+        {
+            "name": "林勁甫",
+            "grade": 102,
+            "previous": "呂庭光",
+            "next": [
+                "林宇政"
+            ]
+        },
+        {
+            "name": "王作賓",
+            "grade": 104,
+            "previous": "林宇政",
+            "next": []
+        },
+        {
+            "name": "林宇政",
+            "grade": 103,
+            "previous": "林勁甫",
+            "next": [
+                "王作賓"
+            ]
+        },
+        {
+            "name": "徐仁山",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "林正軒"
+            ]
+        },
+        {
+            "name": "林正軒",
+            "grade": 101,
+            "previous": "徐仁山",
+            "next": [
+                "方詠安"
+            ]
+        },
+        {
+            "name": "方詠安",
+            "grade": 102,
+            "previous": "林正軒",
+            "next": [
+                "林宗翰"
+            ]
+        },
+        {
+            "name": "鄭偉丞",
+            "grade": 104,
+            "previous": "林宗翰",
+            "next": []
+        },
+        {
+            "name": "林宗翰",
+            "grade": 103,
+            "previous": "方詠安",
+            "next": [
+                "鄭偉丞"
+            ]
+        },
+        {
+            "name": "黃朝晟",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "湯沂達"
+            ]
+        },
+        {
+            "name": "湯沂達",
+            "grade": 101,
+            "previous": "黃朝晟",
+            "next": [
+                "陳俊瑜"
+            ]
+        },
+        {
+            "name": "陳俊瑜",
+            "grade": 102,
+            "previous": "湯沂達",
+            "next": [
+                "黃樂賢"
+            ]
+        },
+        {
+            "name": "王崇安",
+            "grade": 104,
+            "previous": "黃樂賢",
+            "next": []
+        },
+        {
+            "name": "黃樂賢",
+            "grade": 103,
+            "previous": "陳俊瑜",
+            "next": [
+                "王崇安"
+            ]
+        },
+        {
+            "name": "王遠智",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "謝孟君"
+            ]
+        },
+        {
+            "name": "謝孟君",
+            "grade": 101,
+            "previous": "王遠智",
+            "next": [
+                "黃聖涵"
+            ]
+        },
+        {
+            "name": "黃聖涵",
+            "grade": 102,
+            "previous": "謝孟君",
+            "next": [
+                "陳奕昕"
+            ]
+        },
+        {
+            "name": "朱家辰",
+            "grade": 104,
+            "previous": "陳奕昕",
+            "next": []
+        },
+        {
+            "name": "陳奕昕",
+            "grade": 103,
+            "previous": "黃聖涵",
+            "next": [
+                "朱家辰"
+            ]
+        },
+        {
+            "name": "蔡承翰",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "梁沐嶸"
+            ]
+        },
+        {
+            "name": "梁沐嶸",
+            "grade": 101,
+            "previous": "蔡承翰",
+            "next": [
+                "張書榕"
+            ]
+        },
+        {
+            "name": "張書榕",
+            "grade": 102,
+            "previous": "梁沐嶸",
+            "next": [
+                "張仕昇"
+            ]
+        },
+        {
+            "name": "廖宏翊",
+            "grade": 104,
+            "previous": "張仕昇",
+            "next": []
+        },
+        {
+            "name": "張仕昇",
+            "grade": 103,
+            "previous": "張書榕",
+            "next": [
+                "廖宏翊"
+            ]
+        },
+        {
+            "name": "武傳軒",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "陳靖玟"
+            ]
+        },
+        {
+            "name": "陳靖玟",
+            "grade": 101,
+            "previous": "武傳軒",
+            "next": [
+                "劉宇哲"
+            ]
+        },
+        {
+            "name": "劉宇哲",
+            "grade": 102,
+            "previous": "陳靖玟",
+            "next": [
+                "賴慶杰"
+            ]
+        },
+        {
+            "name": "戴辰",
+            "grade": 104,
+            "previous": "賴慶杰",
+            "next": []
+        },
+        {
+            "name": "賴慶杰",
+            "grade": 103,
+            "previous": "劉宇哲",
+            "next": [
+                "戴辰"
+            ]
+        },
+        {
+            "name": "高嘉宏",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "王乃民"
+            ]
+        },
+        {
+            "name": "王乃民",
+            "grade": 101,
+            "previous": "高嘉宏",
+            "next": [
+                "楊宗哲"
+            ]
+        },
+        {
+            "name": "楊宗哲",
+            "grade": 102,
+            "previous": "王乃民",
+            "next": [
+                "陳致宇"
+            ]
+        },
+        {
+            "name": "李皓南",
+            "grade": 104,
+            "previous": "陳致宇",
+            "next": []
+        },
+        {
+            "name": "陳致宇",
+            "grade": 103,
+            "previous": "楊宗哲",
+            "next": [
+                "李皓南"
+            ]
+        },
+        {
+            "name": "朱 儀",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "馮冠群"
+            ]
+        },
+        {
+            "name": "馮冠群",
+            "grade": 101,
+            "previous": "朱 儀",
+            "next": [
+                "董玠佑"
+            ]
+        },
+        {
+            "name": "董玠佑",
+            "grade": 102,
+            "previous": "馮冠群",
+            "next": [
+                "許家齊"
+            ]
+        },
+        {
+            "name": "李昀叡",
+            "grade": 104,
+            "previous": "許家齊",
+            "next": []
+        },
+        {
+            "name": "許家齊",
+            "grade": 103,
+            "previous": "董玠佑",
+            "next": [
+                "李昀叡"
+            ]
+        },
+        {
+            "name": "鄭倩如",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "黃知盈"
+            ]
+        },
+        {
+            "name": "黃知盈",
+            "grade": 101,
+            "previous": "鄭倩如",
+            "next": [
+                "陳湛圖"
+            ]
+        },
+        {
+            "name": "陳湛圖",
+            "grade": 102,
+            "previous": "黃知盈",
+            "next": [
+                "吳翎毓"
+            ]
+        },
+        {
+            "name": "黃孟凱",
+            "grade": 104,
+            "previous": "吳翎毓",
+            "next": []
+        },
+        {
+            "name": "吳翎毓",
+            "grade": 103,
+            "previous": "陳湛圖",
+            "next": [
+                "黃孟凱"
+            ]
+        },
+        {
+            "name": "莊珺涵",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "許竣堡"
+            ]
+        },
+        {
+            "name": "許竣堡",
+            "grade": 101,
+            "previous": "莊珺涵",
+            "next": [
+                "梁瑋修"
+            ]
+        },
+        {
+            "name": "梁瑋修",
+            "grade": 102,
+            "previous": "許竣堡",
+            "next": [
+                "梁貿淞"
+            ]
+        },
+        {
+            "name": "黃聖翔",
+            "grade": 104,
+            "previous": "梁貿淞",
+            "next": []
+        },
+        {
+            "name": "梁貿淞",
+            "grade": 103,
+            "previous": "梁瑋修",
+            "next": [
+                "黃聖翔"
+            ]
+        },
+        {
+            "name": "俞政廷",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "何子宸"
+            ]
+        },
+        {
+            "name": "何子宸",
+            "grade": 101,
+            "previous": "俞政廷",
+            "next": [
+                "黃有毅"
+            ]
+        },
+        {
+            "name": "黃有毅",
+            "grade": 102,
+            "previous": "何子宸",
+            "next": [
+                "潘彥碩"
+            ]
+        },
+        {
+            "name": "鄭劼弦",
+            "grade": 104,
+            "previous": "潘彥碩",
+            "next": []
+        },
+        {
+            "name": "潘彥碩",
+            "grade": 103,
+            "previous": "黃有毅",
+            "next": [
+                "鄭劼弦"
+            ]
+        },
+        {
+            "name": "王傳凱",
+            "grade": 101,
+            "previous": "",
+            "next": [
+                "朱瑞琦"
+            ]
+        },
+        {
+            "name": "朱瑞琦",
+            "grade": 102,
+            "previous": "王傳凱",
+            "next": [
+                "戴育詳"
+            ]
+        },
+        {
+            "name": "李皓翔",
+            "grade": 104,
+            "previous": "戴育詳",
+            "next": []
+        },
+        {
+            "name": "戴育詳",
+            "grade": 103,
+            "previous": "朱瑞琦",
+            "next": [
+                "李皓翔"
+            ]
+        },
+        {
+            "name": "廖偉丞",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "林柏頲"
+            ]
+        },
+        {
+            "name": "林柏頲",
+            "grade": 101,
+            "previous": "廖偉丞",
+            "next": [
+                "陳薪堯"
+            ]
+        },
+        {
+            "name": "陳薪堯",
+            "grade": 102,
+            "previous": "林柏頲",
+            "next": [
+                "陳宣儒"
+            ]
+        },
+        {
+            "name": "林浩田",
+            "grade": 104,
+            "previous": "陳宣儒",
+            "next": []
+        },
+        {
+            "name": "陳宣儒",
+            "grade": 103,
+            "previous": "陳薪堯",
+            "next": [
+                "林浩田"
+            ]
+        },
+        {
+            "name": "沈祐禎",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "李嘉泰"
+            ]
+        },
+        {
+            "name": "李嘉泰",
+            "grade": 101,
+            "previous": "沈祐禎",
+            "next": [
+                "李佳陽"
+            ]
+        },
+        {
+            "name": "李佳陽",
+            "grade": 102,
+            "previous": "李嘉泰",
+            "next": [
+                "吳俞萱"
+            ]
+        },
+        {
+            "name": "馮玉賢",
+            "grade": 104,
+            "previous": "吳俞萱",
+            "next": []
+        },
+        {
+            "name": "吳俞萱",
+            "grade": 103,
+            "previous": "李佳陽",
+            "next": [
+                "馮玉賢"
+            ]
+        },
+        {
+            "name": "劉伯軒",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "鄭書奇"
+            ]
+        },
+        {
+            "name": "鄭書奇",
+            "grade": 101,
+            "previous": "劉伯軒",
+            "next": [
+                "洪晨閎"
+            ]
+        },
+        {
+            "name": "洪晨閎",
+            "grade": 102,
+            "previous": "鄭書奇",
+            "next": [
+                "盧奕誠"
+            ]
+        },
+        {
+            "name": "巫展軍",
+            "grade": 104,
+            "previous": "盧奕誠",
+            "next": []
+        },
+        {
+            "name": "盧奕誠",
+            "grade": 103,
+            "previous": "洪晨閎",
+            "next": [
+                "巫展軍"
+            ]
+        },
+        {
+            "name": "洪鈺棋",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "陳鎮鴻"
+            ]
+        },
+        {
+            "name": "陳鎮鴻",
+            "grade": 101,
+            "previous": "洪鈺棋",
+            "next": [
+                "蔡育武"
+            ]
+        },
+        {
+            "name": "蔡育武",
+            "grade": 102,
+            "previous": "陳鎮鴻",
+            "next": [
+                "陳昱叡"
+            ]
+        },
+        {
+            "name": "李冠煌",
+            "grade": 104,
+            "previous": "陳昱叡",
+            "next": []
+        },
+        {
+            "name": "陳昱叡",
+            "grade": 103,
+            "previous": "蔡育武",
+            "next": [
+                "李冠煌"
+            ]
+        },
+        {
+            "name": "唐千惠",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "吳俊良"
+            ]
+        },
+        {
+            "name": "吳俊良",
+            "grade": 101,
+            "previous": "唐千惠",
+            "next": [
+                "李秉儒"
+            ]
+        },
+        {
+            "name": "李秉儒",
+            "grade": 102,
+            "previous": "吳俊良",
+            "next": [
+                "劉冠鋆",
+                "顧瀞文"
+            ]
+        },
+        {
+            "name": "江郅錡",
+            "grade": 104,
+            "previous": "劉冠鋆",
+            "next": []
+        },
+        {
+            "name": "劉冠鋆",
+            "grade": 103,
+            "previous": "吳俊良",
+            "next": [
+                "江郅錡"
+            ]
+        },
+        {
+            "name": "孫健庭",
+            "grade": 101,
+            "previous": "",
+            "next": [
+                "張家齊"
+            ]
+        },
+        {
+            "name": "張家齊",
+            "grade": 102,
+            "previous": "孫健庭",
+            "next": [
+                "邱泰偉"
+            ]
+        },
+        {
+            "name": "鄭宇倫",
+            "grade": 104,
+            "previous": "邱泰偉",
+            "next": []
+        },
+        {
+            "name": "邱泰偉",
+            "grade": 103,
+            "previous": "張家齊",
+            "next": [
+                "鄭宇倫"
+            ]
+        },
+        {
+            "name": "江駿立",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "吳有為"
+            ]
+        },
+        {
+            "name": "吳有為",
+            "grade": 101,
+            "previous": "江駿立",
+            "next": [
+                "鍾彥杰"
+            ]
+        },
+        {
+            "name": "鍾彥杰",
+            "grade": 102,
+            "previous": "吳有為",
+            "next": [
+                "盧清炫"
+            ]
+        },
+        {
+            "name": "盧清炫",
+            "grade": 103,
+            "previous": "鍾彥杰",
+            "next": [
+                "林怡岑"
+            ]
+        },
+        {
+            "name": "林怡岑",
+            "grade": 104,
+            "previous": "盧清炫",
+            "next": []
+        },
+        {
+            "name": "連政杰",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "王彣"
+            ]
+        },
+        {
+            "name": "王彣",
+            "grade": 101,
+            "previous": "連政杰",
+            "next": [
+                "周俊志",
+                "馮善元"
+            ]
+        },
+        {
+            "name": "鄧明婕",
+            "grade": 104,
+            "previous": "馮善元",
+            "next": []
+        },
+        {
+            "name": "馮善元",
+            "grade": 103,
+            "previous": "王彣",
+            "next": [
+                "鄧明婕"
+            ]
+        },
+        {
+            "name": "周俊志",
+            "grade": 103,
+            "previous": "王彣",
+            "next": []
+        },
+        {
+            "name": "馮善元",
+            "grade": 103,
+            "previous": "周俊志",
+            "next": []
+        },
+        {
+            "name": "陳承遠",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "翁許瑋"
+            ]
+        },
+        {
+            "name": "翁許瑋",
+            "grade": 101,
+            "previous": "陳承遠",
+            "next": [
+                "吳詠嫻"
+            ]
+        },
+        {
+            "name": "吳詠嫻",
+            "grade": 102,
+            "previous": "翁許瑋",
+            "next": [
+                "翁翊珊",
+                "林宜興"
+            ]
+        },
+        {
+            "name": "林裕翔",
+            "grade": 104,
+            "previous": "林宜興",
+            "next": []
+        },
+        {
+            "name": "林宜興",
+            "grade": 103,
+            "previous": "吳泳嫻",
+            "next": [
+                "林裕翔"
+            ]
+        },
+        {
+            "name": "施奕安",
+            "grade": 104,
+            "previous": "翁翊珊",
+            "next": []
+        },
+        {
+            "name": "翁翊珊",
+            "grade": 103,
+            "previous": "吳詠嫻",
+            "next": [
+                "施奕安"
+            ]
+        },
+        {
+            "name": "孫渝涵",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "劉彥呈"
+            ]
+        },
+        {
+            "name": "劉彥呈",
+            "grade": 101,
+            "previous": "孫渝涵",
+            "next": [
+                "葉行遠"
+            ]
+        },
+        {
+            "name": "葉行遠",
+            "grade": 102,
+            "previous": "劉彥呈",
+            "next": [
+                "林廷俊"
+            ]
+        },
+        {
+            "name": "梁適蕊",
+            "grade": 104,
+            "previous": "林廷俊",
+            "next": []
+        },
+        {
+            "name": "林廷俊",
+            "grade": 103,
+            "previous": "葉行遠",
+            "next": [
+                "梁適蕊"
+            ]
+        },
+        {
+            "name": "魏宏宇",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "周柏翰"
+            ]
+        },
+        {
+            "name": "周柏翰",
+            "grade": 101,
+            "previous": "魏宏宇",
+            "next": [
+                "簡佳恩"
+            ]
+        },
+        {
+            "name": "簡佳恩",
+            "grade": 102,
+            "previous": "周柏翰",
+            "next": [
+                "葉繼聰"
+            ]
+        },
+        {
+            "name": "林祐楷",
+            "grade": 104,
+            "previous": "葉繼聰",
+            "next": []
+        },
+        {
+            "name": "葉繼聰",
+            "grade": 103,
+            "previous": "簡佳恩",
+            "next": [
+                "林祐楷"
+            ]
+        },
+        {
+            "name": "潘可涵",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "劉易軒"
+            ]
+        },
+        {
+            "name": "劉易軒",
+            "grade": 101,
+            "previous": "潘可涵",
+            "next": [
+                "鍾其融"
+            ]
+        },
+        {
+            "name": "鍾其融",
+            "grade": 102,
+            "previous": "劉易軒",
+            "next": [
+                "賴昱賢"
+            ]
+        },
+        {
+            "name": "楊家豪",
+            "grade": 104,
+            "previous": "賴昱賢",
+            "next": []
+        },
+        {
+            "name": "賴昱賢",
+            "grade": 103,
+            "previous": "鍾其融",
+            "next": [
+                "楊家豪"
+            ]
+        },
+        {
+            "name": "顧百芙",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "邱軒平"
+            ]
+        },
+        {
+            "name": "邱軒平",
+            "grade": 101,
+            "previous": "顧百芙",
+            "next": [
+                "陳忠謙"
+            ]
+        },
+        {
+            "name": "陳忠謙",
+            "grade": 102,
+            "previous": "邱軒平",
+            "next": [
+                "林彥誠"
+            ]
+        },
+        {
+            "name": "林軍翰",
+            "grade": 104,
+            "previous": "林彥誠",
+            "next": []
+        },
+        {
+            "name": "林彥誠",
+            "grade": 103,
+            "previous": "陳忠謙",
+            "next": [
+                "林軍翰"
+            ]
+        },
+        {
+            "name": "李宗翰",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "李蕭平"
+            ]
+        },
+        {
+            "name": "李蕭平",
+            "grade": 101,
+            "previous": "李宗翰",
+            "next": [
+                "伍錫志"
+            ]
+        },
+        {
+            "name": "伍錫志",
+            "grade": 102,
+            "previous": "李蕭平",
+            "next": [
+                "謝昊恩"
+            ]
+        },
+        {
+            "name": "劉冠廷",
+            "grade": 104,
+            "previous": "謝昊恩",
+            "next": []
+        },
+        {
+            "name": "謝昊恩",
+            "grade": 103,
+            "previous": "伍錫志",
+            "next": [
+                "劉冠廷"
+            ]
+        },
+        {
+            "name": "廖欣瑩",
+            "grade": 101,
+            "previous": "",
+            "next": [
+                "林奕汝"
+            ]
+        },
+        {
+            "name": "林奕汝",
+            "grade": 102,
+            "previous": "廖欣瑩",
+            "next": [
+                "張凱傑"
+            ]
+        },
+        {
+            "name": "林冠甫",
+            "grade": 104,
+            "previous": "張凱傑",
+            "next": []
+        },
+        {
+            "name": "張凱傑",
+            "grade": 103,
+            "previous": "林奕汝",
+            "next": [
+                "林冠甫"
+            ]
+        },
+        {
+            "name": "林育丞",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "林彥安"
+            ]
+        },
+        {
+            "name": "林彥安",
+            "grade": 101,
+            "previous": "林育丞",
+            "next": [
+                "翁孟宏"
+            ]
+        },
+        {
+            "name": "翁孟宏",
+            "grade": 102,
+            "previous": "林彥安",
+            "next": [
+                "梁景祥"
+            ]
+        },
+        {
+            "name": "梁景祥",
+            "grade": 103,
+            "previous": "翁孟宏",
+            "next": []
+        },
+        {
+            "name": "麥喬迪",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "羅元甫"
+            ]
+        },
+        {
+            "name": "羅元甫",
+            "grade": 101,
+            "previous": "麥喬迪",
+            "next": [
+                "李建緯"
+            ]
+        },
+        {
+            "name": "李建緯",
+            "grade": 102,
+            "previous": "羅元甫",
+            "next": [
+                "楊仲齊"
+            ]
+        },
+        {
+            "name": "鍾昭彥",
+            "grade": 104,
+            "previous": "楊仲齊",
+            "next": []
+        },
+        {
+            "name": "楊仲齊",
+            "grade": 103,
+            "previous": "李建緯",
+            "next": [
+                "鍾昭彥"
+            ]
+        },
+        {
+            "name": "朱翹珮",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "吳乘宇"
+            ]
+        },
+        {
+            "name": "吳乘宇",
+            "grade": 101,
+            "previous": "朱翹珮",
+            "next": [
+                "張宏印"
+            ]
+        },
+        {
+            "name": "張宏印",
+            "grade": 102,
+            "previous": "吳乘宇",
+            "next": [
+                "邱冠鈞"
+            ]
+        },
+        {
+            "name": "簡舒平",
+            "grade": 104,
+            "previous": "邱冠鈞",
+            "next": []
+        },
+        {
+            "name": "邱冠鈞",
+            "grade": 103,
+            "previous": "張宏印",
+            "next": [
+                "簡舒平"
+            ]
+        },
+        {
+            "name": "張雲婷",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "蔡文豪"
+            ]
+        },
+        {
+            "name": "蔡文豪",
+            "grade": 101,
+            "previous": "張雲婷",
+            "next": [
+                "陳珞安"
+            ]
+        },
+        {
+            "name": "陳珞安",
+            "grade": 102,
+            "previous": "蔡文豪",
+            "next": [
+                "謝佳運"
+            ]
+        },
+        {
+            "name": "簡銘瑜",
+            "grade": 104,
+            "previous": "謝佳運",
+            "next": []
+        },
+        {
+            "name": "謝佳運",
+            "grade": 103,
+            "previous": "陳珞安",
+            "next": [
+                "簡銘瑜"
+            ]
+        },
+        {
+            "name": "陳敬中",
+            "grade": 100,
+            "previous": "",
+            "next": [
+                "許馥欣"
+            ]
+        },
+        {
+            "name": "許馥欣",
+            "grade": 101,
+            "previous": "陳敬中",
+            "next": [
+                "蘇柏軒",
+                "吳崧瑋"
+            ]
+        },
+        {
+            "name": "蘇柏軒",
+            "grade": 102,
+            "previous": "許馥欣",
+            "next": [
+                "張喬茵"
+            ]
+        },
+        {
+            "name": "鄭亦彣",
+            "grade": 104,
+            "previous": "張喬茵",
+            "next": []
+        },
+        {
+            "name": "張喬茵",
+            "grade": 103,
+            "previous": "蘇柏軒",
+            "next": [
+                "鄭亦彣"
+            ]
+        },
+        {
+            "name": "張庭瑄",
+            "grade": 104,
+            "previous": "顧瀞文",
+            "next": []
+        },
+        {
+            "name": "顧瀞文",
+            "grade": "103",
+            "previous": "李秉儒",
+            "next": [
+                "張庭瑄"
+            ]
+        },
+        {
+            "name": "廖允禎",
+            "grade": "102",
+            "previous": "",
+            "next": [
+                "林浩誼"
+            ]
+        },
+        {
+            "name": "邱奕凱",
+            "grade": 104,
+            "previous": "林浩誼",
+            "next": []
+        },
+        {
+            "name": "林浩誼",
+            "grade": "103",
+            "previous": "廖允禎",
+            "next": [
+                "邱奕凱"
+            ]
+        }
+    ]
 }

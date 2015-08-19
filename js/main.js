@@ -109,6 +109,7 @@ function showResult() {
             graph: presentData,
             container: 'result',
             settings: {
+                defaultLabelSize: 16,
                 defaultNodeColor: '#EA594D',
                 defaultLabelColor: '#FFFFFF',
                 doubleClickEnabled: false,
