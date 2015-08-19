@@ -113,8 +113,7 @@ function showResult() {
                 mouseEnabled: false
             }
         });
-        $("#mainContent").removeClass("center");
-        $("#mainContent").addClass("top");
+        $("#mainContent").switchClass( "center", "top", 1000, "easeInOutQuad" );
         $("#mainContent").append("<button id='research' class='btn btn-default pull-right' onclick='backToSearch()' style='color:white'>重新查詢</button>")
     });
 }
@@ -124,8 +123,7 @@ function backToSearch() {
         $(".result").remove();
         $("#research").remove();
         $("#formGroup").fadeIn("slow");
-        $("#mainContent").removeClass("top");
-        $("#mainContent").addClass("center");
+        $("#mainContent").switchClass( "top", "center", 1000, "easeInOutQuad" );
     });
 }
 
@@ -137,7 +135,7 @@ $(document).ready(function() {
             $.each(data.data, function(index, value) {
                 autocompleteData.push({value: value.name, data: value.name});
             });
-            $('input').autocomplete({
+            $('input').devbridgeAutocomplete({
                 lookup: autocompleteData,
                 onSelect: function (suggestion) {
                     $("input").val(suggestion.value);
