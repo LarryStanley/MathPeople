@@ -6,10 +6,12 @@ var autocompleteData = [];
 var distance = 12;
 function searchResult() {
     distance = 12;
-    $(".searchForm").fadeOut("slow", function(){
-        $(".center").append("<h1 id='searching'>搜尋中...</h1>").fadeIn();
-        engadgeSearch($("input").val());
-    });
+    if ($("input").val()){
+        $("#formGroup").fadeOut("slow", function(){
+            $("#mainContent").append("<h1 id='searching'>搜尋中...</h1>").fadeIn();
+            engadgeSearch($("input").val());
+        });
+    }
 }
 
 function engadgeSearch(input) {
@@ -100,18 +102,20 @@ function showResult() {
         $("#searching").remove();
         var string = "<div class='result' id='result'>";
         string = string + "</div>";
-        $(".container").append(string).fadeIn();
+        $("#mainContent").append(string).fadeIn();
         s = new sigma({ 
             graph: presentData,
             container: 'result',
             settings: {
-                defaultNodeColor: '#ec5148',
-                defaultLabelColor: '#263238',
+                defaultNodeColor: '#EA594D',
+                defaultLabelColor: '#FFFFFF',
                 doubleClickEnabled: false,
                 mouseEnabled: false
             }
         });
-        $(".container").append("<button id='research' class='btn btn-default pull-right' onclick='backToSearch()'>重新查詢</button>")
+        $("#mainContent").removeClass("center");
+        $("#mainContent").addClass("top");
+        $("#mainContent").append("<button id='research' class='btn btn-default pull-right' onclick='backToSearch()' style='color:white'>重新查詢</button>")
     });
 }
 function backToSearch() {
@@ -119,7 +123,9 @@ function backToSearch() {
     $(".result").fadeOut("slow", function() {
         $(".result").remove();
         $("#research").remove();
-        $(".searchForm").fadeIn("slow");
+        $("#formGroup").fadeIn("slow");
+        $("#mainContent").removeClass("top");
+        $("#mainContent").addClass("center");
     });
 }
 
@@ -140,6 +146,7 @@ $(document).ready(function() {
             });
         }
     });
+    $("input").focus();
 });
 
 $(document).keypress(function(e) {

@@ -16,44 +16,18 @@
 </head>
 <body>
     <div class="container">
-        <h1>中央數學家族<br>查詢系統</h1>
-        <div class="center">
-           <div class="searchForm" stlye="overflow: auto">
-                <div class="form-group-material-red-500">
-                    <input type="text" class="form-control" id="input" placeholder="輸入姓名以查詢關係">
-                </div>
-                <button tyle="submit" class="btn btn-default" onclick="searchResult()" style="float: right">查詢</button>
+        <div class="center" id="mainContent">
+            <h1>中央數學家族<br>查詢系統</h1>
+            <div class="form-group-material-red-500" id="formGroup">
+                <input type="text" class="form-control" id="input" placeholder="輸入姓名以查詢關係">
+                <button tyle="submit" class="btn btn-default" onclick="searchResult()" style="float: right; color: white">查詢</button>
             </div>
         </div>
     </div>
     <script src="js/jquery.autocomplete.min.js"></script>
+    <script src="js/jquery-ui.min.js"></script>
     <script src="js/sigma.min.js"></script>    
     <script src="js/sigma.parsers.json.min.js"></script>
     <script src="js/main.js"></script>
-    <script>
-        /*var result = [];
-        $.getJSON("math.json", function(data){
-            $.each(data.data, function(index, value) {
-                if (value.grade == 103) {
-                    $.each(value.next, function(key, item) {
-                        result.push({
-                            "name": item,
-                            "grade": 104,
-                            "previous": value.name,
-                            "next": []
-                        });
-                    });
-                }
-                if (value.grade != 104)
-                    result.push(value);
-                if (index === data.data.length - 1) {
-                    result = result.filter(function(item, pos) {
-                        return result.indexOf(item) == pos;
-                    })
-                    $(".container").append(JSON.stringify(result));
-                }
-            });
-        });*/
-    </script>
 </body>
 </html>
