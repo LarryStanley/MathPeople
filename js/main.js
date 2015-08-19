@@ -99,11 +99,10 @@ function drawData(x,y, people) {
 
 function showResult() {
     $("#searching").fadeOut("slow", function(){
-        $("#searching").remove();
         var string = "<div class='result' id='result'>";
         string = string + "</div>";
-        $("#mainContent").switchClass( "center", "top", 1000, "easeInOutQuad", function() {
-            console.log("yes");
+        $("#mainContent").switchClass( "center", "top", 500, "easeInOutQuad", function() {
+            $("#searching").remove();
             $("#mainContent").append(string);
              s = new sigma({ 
                 graph: presentData,
@@ -124,7 +123,7 @@ function backToSearch() {
     $(".result").fadeOut("slow", function() {
         $(".result").remove();
         $("#research").remove();
-        $("#mainContent").switchClass( "top", "center", 1000, "easeInOutQuad", function() {
+        $("#mainContent").switchClass( "top", "center", 500, "easeInOutQuad", function() {
             $("#formGroup").fadeIn("slow");
         });
     });
