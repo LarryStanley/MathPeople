@@ -101,21 +101,21 @@ function showResult() {
     $("#searching").fadeOut("slow", function(){
         var string = "<div class='result' id='result'>";
         string = string + "</div>";
-        $("#mainContent").switchClass( "center", "top", 500, "easeInOutQuad", function() {
-            $("#searching").remove();
-            $("#mainContent").append(string);
-             s = new sigma({ 
-                graph: presentData,
-                container: 'result',
-                settings: {
-                    defaultNodeColor: '#EA594D',
-                    defaultLabelColor: '#FFFFFF',
-                    doubleClickEnabled: false,
-                    mouseEnabled: false
-                }
-            });
-            $("#mainContent").append("<button id='research' class='btn btn-default pull-right' onclick='backToSearch()' style='color:white'>重新查詢</button>");
+        $("#searching").remove();
+        $("#mainContent").removeClass("center");
+        $("#mainContent").addClass("top");
+        $("#mainContent").append(string);
+         s = new sigma({ 
+            graph: presentData,
+            container: 'result',
+            settings: {
+                defaultNodeColor: '#EA594D',
+                defaultLabelColor: '#FFFFFF',
+                doubleClickEnabled: false,
+                mouseEnabled: false
+            }
         });
+        $("#mainContent").append("<button id='research' class='btn btn-default pull-right' onclick='backToSearch()' style='color:white'>重新查詢</button>");
     });
 }
 function backToSearch() {
@@ -123,9 +123,9 @@ function backToSearch() {
     $(".result").fadeOut("slow", function() {
         $(".result").remove();
         $("#research").remove();
-        $("#mainContent").switchClass( "top", "center", 500, "easeInOutQuad", function() {
-            $("#formGroup").fadeIn("slow");
-        });
+        $("#mainContent").removeClass("top");
+        $("#mainContent").addClass("center");
+        $("#formGroup").fadeIn("slow");
     });
 }
 
