@@ -133,7 +133,7 @@ function backToSearch() {
 $(document).ready(function() {
     $.ajax({
         dataType: "json",
-        url: "math.json",
+        url: "math.new.json",
         success: function(data) {
             $.each(data.data, function(index, value) {
                 autocompleteData.push({value: value.name, data: value.name});
