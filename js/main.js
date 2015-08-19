@@ -102,19 +102,21 @@ function showResult() {
         $("#searching").remove();
         var string = "<div class='result' id='result'>";
         string = string + "</div>";
-        $("#mainContent").append(string).fadeIn();
-        s = new sigma({ 
-            graph: presentData,
-            container: 'result',
-            settings: {
-                defaultNodeColor: '#EA594D',
-                defaultLabelColor: '#FFFFFF',
-                doubleClickEnabled: false,
-                mouseEnabled: false
-            }
+        $("#mainContent").switchClass( "center", "top", 1000, "easeInOutQuad", function() {
+            console.log("yes");
+            $("#mainContent").append(string);
+             s = new sigma({ 
+                graph: presentData,
+                container: 'result',
+                settings: {
+                    defaultNodeColor: '#EA594D',
+                    defaultLabelColor: '#FFFFFF',
+                    doubleClickEnabled: false,
+                    mouseEnabled: false
+                }
+            });
+            $("#mainContent").append("<button id='research' class='btn btn-default pull-right' onclick='backToSearch()' style='color:white'>重新查詢</button>");
         });
-        $("#mainContent").switchClass( "center", "top", 1000, "easeInOutQuad" );
-        $("#mainContent").append("<button id='research' class='btn btn-default pull-right' onclick='backToSearch()' style='color:white'>重新查詢</button>")
     });
 }
 function backToSearch() {
@@ -122,8 +124,9 @@ function backToSearch() {
     $(".result").fadeOut("slow", function() {
         $(".result").remove();
         $("#research").remove();
-        $("#formGroup").fadeIn("slow");
-        $("#mainContent").switchClass( "top", "center", 1000, "easeInOutQuad" );
+        $("#mainContent").switchClass( "top", "center", 1000, "easeInOutQuad", function() {
+            $("#formGroup").fadeIn("slow");
+        });
     });
 }
 
