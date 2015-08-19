@@ -129,7 +129,7 @@ $(document).ready(function() {
         url: "math.json",
         success: function(data) {
             $.each(data.data, function(index, value) {
-                autocompleteData.push({value: value.name, data: data.name});
+                autocompleteData.push({value: value.name, data: value.name});
             });
             $('input').autocomplete({
                 lookup: autocompleteData,
