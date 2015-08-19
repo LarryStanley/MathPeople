@@ -103,7 +103,7 @@ function showResult() {
         string = string + "</div>";
         $("#searching").remove();
         $("#mainContent").removeClass("center");
-        $("#mainContent").addClass("top");
+        $("#mainContent").addClass("top animated fadeIn");
         $("#mainContent").append(string);
          s = new sigma({ 
             graph: presentData,
@@ -124,7 +124,7 @@ function backToSearch() {
         $(".result").remove();
         $("#research").remove();
         $("#mainContent").removeClass("top");
-        $("#mainContent").addClass("center");
+        $("#mainContent").addClass("center animated fadeIn");
         $("#formGroup").fadeIn("slow");
     });
 }
